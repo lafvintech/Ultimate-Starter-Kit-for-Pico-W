@@ -1,7 +1,7 @@
-7.2 Follow the @CheerLights
+7.2 Sync Global Lights @CheerLights
 =======================================
 
-This is a romantic project, join the |link_cheerlights| LED color-changing community, which allows LEDs all over the world to change colors simultaneously.
+This is a romantic project, join the `CheerLights <https://x.com/cheerlights/>`_ LED color-changing community, which allows LEDs all over the world to change colors simultaneously.
 
 You can place it in a corner of your office to remind yourself that you are not alone.
 
@@ -31,7 +31,7 @@ Component List
 
 
 
-#. Switch the path to the folder where you downloaded the `code package <https://github.com/sunfounder/kepler-kit/archive/refs/heads/main.zip>`_ before and open the ``2_cheer_light.py`` file under the path of ``kepler-kit-main/iot``.
+#. Switch the path to the folder where you downloaded the `code package <https://github.com/lafvintech/Ultimate-Starter-Kit-for-Pico-W/archive/refs/heads/main.zip>`_ before and open the ``2_cheer_light.py`` file under the path of ``Ultimate-Starter-Kit-for-Pico-W/Python/iot``.
 
 #. To run the script, click the **Run current script** button or press F5, then you will see the connected prompt, the IP and the color (0xff0000 is red) in the Shell.
 
