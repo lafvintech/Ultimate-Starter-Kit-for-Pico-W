@@ -8,6 +8,8 @@ Component List
 - 830 Tie-Points Breadboard x1
 - LCD1602 x1
 - DHT11 Module x1
+- Li-po Charger Module x1
+- Battery Holder x1
 - Jumper Wire Several
 
 Connect
@@ -28,7 +30,7 @@ Anvil Setting
 
    .. image:: img/iot/anvil-2.png
 
-   .. note::
+   .. attention::
 
       After signing up, you can open this link to clone the prepared project: `Clone Project <https://anvil.works/build#clone:XGLZSYWF3XN3NBHN=WHPCUEZP5D3LY6ZS65LZFTNC>`_. Alternatively, you can follow the steps below to build the web app from scratch. If you choose to clone the project, you can skip directly to step 14.
 
@@ -44,7 +46,7 @@ Anvil Setting
 
    .. image:: img/iot/anvil-4-1.png
 
-6. **From the Toolbox, drag a Label tool and place it on "Drop title here"**.
+6. **From the Toolbox, drag a Label tool and place it below "Drop title here"**.
 
    .. image:: img/iot/anvil-5.png
 
@@ -134,9 +136,7 @@ Modify the ``boot.py`` script to include your WiFi name (SSID) and password.
 
 .. image:: img/iot/boot.png
 
-Click **Run current script**.
-
-Upload ``dht.py`` and ``lcd1602.py`` from the path ``kepler-kit-main/libs`` to the Raspberry Pi Pico W.
+Upload ``dht.py`` and ``lcd1602.py`` from the path ``Ultimate-Starter-Kit-for-Pico\Python\2.Library`` to the Raspberry Pi Pico W.
 
 Replace ``main.py`` with the following code, and insert your Uplink key where indicated:
 
