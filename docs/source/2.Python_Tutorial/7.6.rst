@@ -1,8 +1,8 @@
-7.6.IoT Controlled Relay
+7.6 IoT Controlled Relay
 ==================================
 In this project, we will build an IoT Relay using Raspberry Pi Pico W WiFi and control the Relay via a Web Server. We will use Thonny IDE to program the Raspberry Pi Pico W using MicroPython Code. It’s a great way to build a Wi-Fi switch to turn on and off any electrical device spending very little money.
 
-This DIY IoT Relay based on the Raspberry Pi Pico W WiFi + Bluetooth module can be used to control High Power Devices like Water Pumps, Air Conditioners, Heaters, and other High Ampere loads. The best thing about this IoT Relay is that it can be controlled remotely in a local network using WiFi technology. The cell phone or any web application can be used to access the Web Server. Using the web page, you can turn ON/OFF any appliances at your home.
+This DIY IoT Relay based on the Raspberry Pi Pico W Wi  Fi + Bluetooth module can be used to control High Power Devices like Water Pumps, Air Conditioners, Heaters, and other High Ampere loads. The best thing about this IoT Relay is that it can be controlled remotely in a local network using WiFi technology. The cell phone or any web application can be used to access the Web Server. Using the web page, you can turn ON/OFF any appliances at your home.
 
 Component List
 ^^^^^^^^^^^^^^^

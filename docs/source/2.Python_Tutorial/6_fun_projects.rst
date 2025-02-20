@@ -1,7 +1,6 @@
 6 Fun Projects
 ==========================
 
-
 .. toctree::
     :maxdepth: 1
 
