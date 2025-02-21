@@ -34,7 +34,7 @@ Code
 
     * Don't forget to click on the "MicroPython (Raspberry Pi Pico)" interpreter in the bottom right corner. 
     
-    * Before running the code, you need to make sure you have do_connect.py and secrets.py scripts in your Pico W, if not please refer to 8.1 Access to the Network to create them.
+    * Before running the code, you need to make sure you have ``do_connect.py`` and ``secrets.py`` scripts in your Pico W, if not please refer to 8.1 Access to the Network to create them.
 
 .. image:: img/7.IOT/7.4_soft.png
 

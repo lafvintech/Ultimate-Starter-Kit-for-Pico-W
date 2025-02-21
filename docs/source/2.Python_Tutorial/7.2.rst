@@ -16,30 +16,24 @@ Component List
 - Battery Holder x1
 - Jumper Wire Several
 
-**Steps**
+Connect
+^^^^^^^^^
+.. warning:: 
+    Make sure your Li-po Charger Module is connected as shown in the diagram. Otherwise, a short circuit will likely damage your battery and circuitry.
 
-#. Build the circuit.
+.. image:: img/3.connect/7.2.png
 
-    The Li-po Charger Module used here will power your circuit so you can disconnect the USB cable and take your project somewhere else to play!
-
-    .. warning:: 
-        
-        Make sure your Li-po Charger Module is connected as shown in the diagram. Otherwise, a short circuit will likely damage your battery and circuitry.
-
-    .. image:: img/wiring/2.cheerlights_bb.png
-        :width: 800
-
-
-
-#. Switch the path to the folder where you downloaded the `code package <https://github.com/lafvintech/Ultimate-Starter-Kit-for-Pico-W/archive/refs/heads/main.zip>`_ before and open the ``2_cheer_light.py`` file under the path of ``Ultimate-Starter-Kit-for-Pico-W/Python/iot``.
+Code
+^^^^^^^^^
+#. Switch the path to the folder where you downloaded the `code package <https://github.com/lafvintech/Ultimate-Starter-Kit-for-Pico-W/archive/refs/heads/main.zip>`_ before and open the ``7.2cheer_light.py`` file under the path of ``Ultimate-Starter-Kit-for-Pico-W/Python/iot``.
 
 #. To run the script, click the **Run current script** button or press F5, then you will see the connected prompt, the IP and the color (0xff0000 is red) in the Shell.
 
     .. note::
 
-        Before running the code, you need to make sure you have ``do_connect.py`` and ``secrets.py`` scripts in your Pico W, if not please refer to :ref:`iot_access` to create them.
+        Before running the code, you need to make sure you have ``do_connect.py`` and ``secrets.py`` scripts in your Pico W.
 
-    .. image:: img/2_cheerlight1.png
+    .. image:: img/4.software/7.2.png
 
 
 #. After the script runs, the WS2812 RGB strip will show a color, sometimes the color will change.
@@ -48,22 +42,21 @@ Component List
 
     * Stop the script from running and click **File** -> **Save as**.
 
-        .. image:: img/2_cheerlight2.png
+        .. image:: img/4.software/7.2-1.png
 
     * Select **Raspberry Pi Pico** in the popup window that appears.
 
-        .. image:: img/2_cheerlight3.png
+        .. image:: img/4.software/7.2-2.png
 
     * Set the file name to ``main.py``. A prompt will appear if the same file already exists on your Pico W.
 
-        .. image:: img/2_cheerlight4.png
+        .. image:: img/4.software/7.2-3.png
     
     * You can now unplug the USB cable and use the Li-po Charger Module to power the Raspberry Pi Pico W. Put it in a corner and it will work automatically.
 
-
 **How it works?**
 
-The Raspberry Pi Pico W needs to be connected to the Internet, as described in :ref:`iot_access`. For this project, just use it.
+树莓派pico w访问互联网,靠的是 ``do_connect.py`` and ``secrets.py``这两个脚本,具体的视线情可以参考 :ref:`iot_access`
 
 .. code-block:: python
 
