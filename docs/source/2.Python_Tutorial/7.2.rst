@@ -12,6 +12,7 @@ Component List
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
+- RGB 8 LED Strip x1
 - Li-po Charger Module x1
 - Battery Holder x1
 - Jumper Wire Several
@@ -25,9 +26,9 @@ Connect
 
 Code
 ^^^^^^^^^
-#. Switch the path to the folder where you downloaded the `code package <https://github.com/lafvintech/Ultimate-Starter-Kit-for-Pico-W/archive/refs/heads/main.zip>`_ before and open the ``7.2cheer_light.py`` file under the path of ``Ultimate-Starter-Kit-for-Pico-W/Python/iot``.
+#. Switch the path to the folder where you downloaded the `code package <https://github.com/lafvintech/Ultimate-Starter-Kit-for-Pico-W/archive/refs/heads/main.zip>`_ before and open the ``2cheer_light.py`` file under the path of ``Ultimate-Starter-Kit-for-Pico-W/1.Python/iot``.
 
-#. To run the script, click the **Run current script** button or press F5, then you will see the connected prompt, the IP and the color (0xff0000 is red) in the Shell.
+#. To run the script, click the **Run current script** button or press F5, then you will see the connected prompt, the IP and the color (0xffC0CB is Pink) in the Shell.
 
     .. note::
 

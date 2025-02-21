@@ -8,72 +8,76 @@ Component List
 ^^^^^^^^^^^^^^^
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
+- LCD1602
+- Li-po Charger Module x1
+- Battery Holder x1
+- Jumper Wire Several
 
+Connect
+^^^^^^^^^
 
-**2. Build the Circuit**
-
-    .. warning:: 
+.. warning:: 
         
-        Make sure your Li-po Charger Module is connected as shown in the diagram. Otherwise, a short circuit will likely damage your battery and circuitry.
+    Make sure your Li-po Charger Module is connected as shown in the diagram. Otherwise, a short circuit will likely damage your battery and circuitry.
 
-.. image:: img/wiring/4.owm_bb.png
+.. image:: img/3.connect/7.3.png
 
+Code
+^^^^^^^^^
 
-**3. Get OpenWeather API keys**
+`OpenWeatherMap <https://openweathermap.org/>`_ is an online service, owned by OpenWeather Ltd, that provides global weather data via API, including current weather data, forecasts, nowcasts and historical weather data for any geographical location.
 
-|link_openweather| is an online service, owned by OpenWeather Ltd, that provides global weather data via API, including current weather data, forecasts, nowcasts and historical weather data for any geographical location.
+#. Visit `OpenWeatherMap <https://home.openweathermap.org/users/sign_in>`_  to log in/create an account.
 
-#. Visit |link_openweather| to log in/create an account.
-
-    .. image:: img/OWM-1.png
-
-
-#. Click into the API page from the navigation bar.
-
-    .. image:: img/OWM-2.png
+    .. image:: img/iot/OWM1.png
 
 
-#. Find **Current Weather Data** and click Subscribe.
+#. Click into the ``API`` page from the navigation bar.
 
-    .. image:: img/OWM-3.png
-
-
-#. Under **Current weather and forecasts collection**, subscribe to the appropriate service. In our project, Free is good enough.
-
-   .. image:: img/OWM-4.png
+    .. image:: img/iot/OWM2.png
 
 
-#. Copy the Key from the **API keys** page.
+#. 向下滚动找到 **Current Weather Data** and click Subscribe.
 
-   .. image:: img/OWM-5.png
+    .. image:: img/iot/OWM3.png
+
+
+#. 向下滚动找到 **Free Access**, 点击get api. In our project, Free is good enough.
+
+   .. image:: img/iot/OWM4.png
+
+
+#. 点击get api之后,点击右上角弹出菜单中的My API keys查看你的api
+
+   .. image:: img/iot/OWM5.png
+    
+   .. image:: img/iot/OWM6.png
 
 #. Copy it to the ``secrets.py`` script in Raspberry Pi Pico W.
 
-    .. image:: img/4_openweather1.png
+    .. image:: img/iot/OWM7.png
 
     .. note::
 
-        If you don't have ``do_connect.py`` and ``secrets.py`` scripts in your Pico W, please refer to :ref:`iot_access` to create them.
+        If you don't have ``do_connect.py`` and ``secrets.py`` scripts in your Pico W, please refer to :ref:`access_network` to create them.
 
     .. code-block:: python
-        :emphasize-lines: 5
+        :emphasize-lines: 4
 
         secrets = {
         'ssid': 'SSID',
         'password': 'PASSWORD',
-        'webhooks_key':'WEBHOOKS_API_KEY',
         'openweather_api_key':'OPENWEATHERMAP_API_KEY'
         }
 
 **4. Run the Script**
 
-#. Open the ``4_weather.py`` file under the path of ``Ultimate-Starter-Kit-for-Pico-W/Python/iot``, click the **Run current script** button or press F5 to run it.
+#. Open the ``3_weather.py`` file under the path of ``Ultimate-Starter-Kit-for-Pico-W/1.Python/iot``, click the **Run current script** button or press F5 to run it.
 
-    .. image:: img/4_openweather2.png
+    .. image:: img/iot/OWM8.png
 
 
 #. After the script runs, you will see the time and weather information of your location on the I2C LCD1602.
-
 
     .. note:: 
 
@@ -81,180 +85,206 @@ Component List
 
 #. If you want this script to be able to boot up, you can save it to the Raspberry Pi Pico W as ``main.py``.
 
-
-**How it works?**
-
-The Raspberry Pi Pico W needs to be connected to the Internet, as described in :ref:`iot_access`. For this project, just use it.
-
 .. code-block:: python
 
+    import urequests
+    import time
+    from machine import I2C, Pin
+    from lcd1602 import LCD
+
+    # connect the network       
+    from secrets import *
     from do_connect import *
     do_connect()
 
-After connecting to the Internet, these few lines of code will help synchronize your Pico W to Greenwich Mean Time.
+    # syncing the time
+    import ntptime
+    while True:
+        try:
+            ntptime.settime()
+            print('Time Set Successfully')
+            break
+        except OSError:
+            print('Time Setting...')
+            continue
 
-.. code-block:: python
+    # init LCD
+    i2c = I2C(1, sda=Pin(6), scl=Pin(7), freq=400000)
+    lcd=LCD(i2c)
 
-   import ntptime
-   while True:
-      try:
-         ntptime.settime()
-         print('Time Set Successfully')
-         break
-      except OSError:
-         print('Time Setting...')
-         continue   
-
-Initialize your LCD, please refer to :ref:`py_lcd` for its usage details.
-
-.. code-block:: python
-
-   from lcd1602 import LCD
-   lcd=LCD()
-   lcd.clear() 
-   string = 'Loading...'
-   lcd.message(string)
-
-We need to select the unit for some weather data (e.g. temperature, wind speed) before we get the weather data. In this case, the unit is ``metric``.
-
-.. code-block:: python
-
-   # Open Weather
-   TEMPERATURE_UNITS = {
-      "standard": "K",
-      "metric": "°C",
-      "imperial": "°F",
-   }
-
-   SPEED_UNITS = {
-      "standard": "m/s",
-      "metric": "m/s",
-      "imperial": "mph",
-   }
-
-   units = "metric"
-
-Next, this function gets the weather data from ``openweathermap.org``.
-We will post a URL message to it with your city, API keys, and a set unit.
-As a result, you will receive a ``JSON`` file with weather data.
-
-.. code-block:: python
-
-   def get_weather(city, api_key, units='metric', lang='en'):
-      '''
-      Get weather data from openweathermap.org
-         city: City name, state code and country code divided by comma, Please, refer to ISO 3166 for the state codes or country codes. https://www.iso.org/obp/ui/#search
-         api_key: Your unique API key (you can always find it on your openweather account page under the "API key" tab https://home.openweathermap.org/api_keys)
-         unit: Units of measurement. standard, metric and imperial units are available. If you do not use the units parameter, standard units will be applied by default. More: https://openweathermap.org/current#data
-         lang: You can use this parameter to get the output in your language. More: https://openweathermap.org/current#multi
-      '''
-      url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units={units}&lang={lang}"
-      print(url)
-      res = urequests.post(url)
-      return res.json()
-
-If you print out this set of raw data, you will be able to see information similar to that shown below.
-
-.. code-block:: python
-
-   weather data example:
-   {
-       'timezone': 28800,
-       'sys': {
-           'type': 2,
-           'sunrise': 1659650200,
-           'country': 'CN',
-           'id': 2031340,
-           'sunset': 1659697371
-       },
-       'base': 'stations',
-       'main': {
-           'pressure': 1008,
-           'feels_like': 304.73,
-           'temp_max': 301.01,
-           'temp': 300.4,
-           'temp_min': 299.38,
-           'humidity': 91,
-           'sea_level': 1008,
-           'grnd_level': 1006
-       },
-       'visibility': 10000,
-       'id': 1795565,
-       'clouds': {
-           'all': 96
-       }, 
-       'coord': {
-           'lon': 114.0683,
-           'lat': 22.5455
-       },
-       'name': 'Shenzhen',
-       'cod': 200,
-       'weather':[{
-           'id': 804,
-           'icon': '04d',
-           'main': 'Clouds',
-           'description': 'overcast clouds'
-       }],
-       'dt': 1659663579,
-       'wind': {
-           'gust': 7.06,
-           'speed': 3.69,
-           'deg': 146
-       }
-   }
-
-We used the ``print_weather(weather_data)`` function to convert these raw data into easy-to-read data format and print them.
-
-But this function is not called, and you can uncomment this line in ``while True`` as needed.
-
-.. image:: img/4_openweather3.png
-
-.. code-block:: python
-   :emphasize-lines: 2
-
-   # shell print
-   print_weather(weather_data)
-
-In the ``while True`` loop, the ``get_weather()`` function is called first to retrieve the ``weather``, ``temperature`` and ``humidity`` information needed for this project.
-
-.. code-block:: python
-
-   weather_data = get_weather('shenzhen', secrets['openweather_api_key'], units=units)
-   weather=weather_data["weather"][0]["main"]
-   t=weather_data["main"]["temp"]
-   rh=weather_data["main"]["humidity"]
-
-Get the local time. The ``time.localtime()`` function is called here to return a set of tuples (year, month, mday, hour, minute, second, weekday, yearday). We have taken ``hour`` and ``minute`` out of it.
-
-Note that we have already synchronized Pico W to Greenwich Mean Time, so we need to add the time zone of your location.
-
-.. code-block:: python
-    
-    # get time (+24 allows for western hemisphere)
-    # if negative, add 24
-    # hours = time.localtime()[3] + int(weather_data["timezone"] / 3600) + 24  #only for west hemisphere
-
-    hours=time.localtime()[3]+int(weather_data["timezone"] / 3600)
-    mins=time.localtime()[4]
-
-Finally, the weather information and time are just displayed in the LCD1602.
-
-.. code-block:: python
-
-   lcd.clear() 
-   time.sleep_ms(200)
-   string = f'{hours:02d}:{mins:02d} {weather}\n'
-   lcd.message(string)
-   string = f'{t}{TEMPERATURE_UNITS[units]} {rh}%rh'
-   lcd.message(string)
-
-Your LCD1602 will become a clock that refreshes every 30 seconds when the main loop runs every 30 seconds.
+    lcd.clear() 
+    string = 'Loading...'
+    lcd.message(string)
 
 
+    # Open Weather
+    TEMPERATURE_UNITS = {
+        "standard": "K",
+        "metric": "°C",
+        "imperial": "°F",
+    }
 
-.. OPW的文档页面, 可以查找每种产品的所有技术信息。https://openweathermap.org/api
+    SPEED_UNITS = {
+        "standard": "m/s",
+        "metric": "m/s",
+        "imperial": "mph",
+    }
+
+    units = "metric"
+
+    def get_weather(city, api_key, units='metric', lang='en'):
+        '''
+        Get weather data from openweathermap.org
+            city: City name, state code and country code divided by comma, Please, refer to ISO 3166 for the state codes or country codes. https://www.iso.org/obp/ui/#search
+            api_key: Your unique API key (you can always find it on your openweather account page under the "API key" tab https://home.openweathermap.org/api_keys)
+            unit: Units of measurement. standard, metric and imperial units are available. If you do not use the units parameter, standard units will be applied by default. More: https://openweathermap.org/current#data
+            lang: You can use this parameter to get the output in your language. More: https://openweathermap.org/current#multi
+        '''
+        url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units={units}&lang={lang}"
+        print(url)
+        res = urequests.post(url)
+        return res.json()
+
+    def print_weather(weather_data):
+        print(f'Timezone: {int(weather_data["timezone"] / 3600)}')
+        sunrise = time.localtime(weather_data['sys']['sunrise']+weather_data["timezone"])
+        sunset = time.localtime(weather_data['sys']['sunset']+weather_data["timezone"])
+        print(f'Sunrise: {sunrise[3]}:{sunrise[4]}')
+        print(f'Sunset: {sunset[3]}:{sunset[4]}')   
+        print(f'Country: {weather_data["sys"]["country"]}')
+        print(f'City: {weather_data["name"]}')
+        print(f'Coordination: [{weather_data["coord"]["lon"]}, {weather_data["coord"]["lat"]}')
+        print(f'Visibility: {weather_data["visibility"]}m')
+        print(f'Weather: {weather_data["weather"][0]["main"]}')
+        print(f'Temperature: {weather_data["main"]["temp"]}{TEMPERATURE_UNITS[units]}')
+        print(f'Temperature min: {weather_data["main"]["temp_min"]}{TEMPERATURE_UNITS[units]}')
+        print(f'Temperature max: {weather_data["main"]["temp_max"]}{TEMPERATURE_UNITS[units]}')
+        print(f'Temperature feels like: {weather_data["main"]["feels_like"]}{TEMPERATURE_UNITS[units]}')
+        print(f'Humidity: {weather_data["main"]["humidity"]}%')
+        print(f'Pressure: {weather_data["main"]["pressure"]}hPa')
+        print(f'Wind speed: {weather_data["wind"]["speed"]}{SPEED_UNITS[units]}')
+        print(f'Wind gust: {weather_data["wind"]["gust"]}{SPEED_UNITS[units]}')
+        print(f'Wind direction: {weather_data["wind"]["deg"]}°')
+        if "clouds" in weather_data:
+            print(f'Cloudiness: {weather_data["clouds"]["all"]}%')
+        elif "rain" in weather_data:
+            print(f'Rain volume in 1 hour: {weather_data["rain"]["1h"]}mm')
+            print(f'Rain volume in 3 hour: {weather_data["rain"]["3h"]}mm')
+        elif "snow" in weather_data:
+            print(f'Snow volume in 1 hour: {weather_data["snow"]["1h"]}mm')
+            print(f'Snow volume in 3 hour: {weather_data["snow"]["3h"]}mm')    
 
 
-.. 查看获取到的key https://home.openweathermap.org/api_keys
-.. 当前天气的资料页 https://openweathermap.org/current
-.. https://openweathermap.org/appid
+    while True:
+        # get weather
+        weather_data = get_weather('shenzhen', secrets['openweather_api_key'], units=units)
+        weather=weather_data["weather"][0]["main"]
+        t=weather_data["main"]["temp"]
+        rh=weather_data["main"]["humidity"]
+
+        # get time (+24 allows for western hemisphere)
+        # if negative, add 24
+        # hours = time.localtime()[3] + int(weather_data["timezone"] / 3600) + 24  #only for west hemisphere
+        
+        hours=time.localtime()[3]+int(weather_data["timezone"] / 3600)
+        mins=time.localtime()[4]
+
+        # LCD print
+        lcd.clear() 
+        time.sleep_ms(200)
+        string = f'{hours:02d}:{mins:02d} {weather}\n'
+        lcd.message(string)
+        string = f'{t}{TEMPERATURE_UNITS[units]} {rh}%rh'
+        lcd.message(string)
+
+        # shell print
+        # print_weather(weather_data)
+
+        # refresh every 30s
+        time.sleep(30)
+
+Principle
+----------
+
+1. The Pico W connects to the network using the ``secrets.py`` and ``do_connect.py`` files.
+
+    .. code-block:: python
+        # connect the network       
+        from secrets import *
+        from do_connect import *
+        do_connect()
+
+
+- ``secrets.py`` stores sensitive information such as the Wi-Fi network's SSID and password.
+- ``do_connect.py`` contains the logic to connect to the Wi-Fi network, ensuring that the Pico W can access the internet.
+
+
+2. The system time of Pico W is synchronized to Greenwich Mean Time (UTC) using the ``ntptime`` module.
+
+    .. code-block:: python
+        import ntptime
+        while True:
+        try:
+            ntptime.settime()
+            print('Time Set Successfully')
+            break
+        except OSError:
+            print('Time Setting...')
+            continue
+
+- The ``ntptime.settime()`` method is used to get the current time from an NTP server and set the system time of Pico W.
+- If time synchronization fails (e.g., due to network issues), the program will keep trying until it succeeds.
+
+
+3. The LCD1602 screen is initialized and cleared, and a loading message is displayed.
+
+    .. code-block:: python
+        from lcd1602 import LCD
+        lcd=LCD()
+        lcd.clear()
+        string = 'Loading...'
+        lcd.message(string)
+
+- The LCD screen is initialized using the I2C protocol, specifying the SDA and SCL pins.
+- The screen content is cleared, and the message ``Loading...`` is displayed to indicate that the program is starting.
+
+4. The ``get_weather`` function is defined to retrieve weather data from the OpenWeatherMap API.
+
+    .. code-block:: python
+        def get_weather(city, api_key, units='metric', lang='en'):
+        '''
+        Get weather data from openweathermap.org
+            city: City name, state code and country code divided by comma, Please, refer to ISO 3166 for the state codes or country codes. https://www.iso.org/obp/ui/#search
+            api_key: Your unique API key (you can always find it on your openweather account page under the "API key" tab https://home.openweathermap.org/api_keys)
+            unit: Units of measurement. standard, metric and imperial units are available. If you do not use the units parameter, standard units will be applied by default. More: https://openweathermap.org/current#data
+            lang: You can use this parameter to get the output in your language. More: https://openweathermap.org/current#multi
+        '''
+        url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units={units}&lang={lang}"
+        print(url)
+        res = urequests.post(url)
+        return res.json()
+
+- The request URL is constructed with parameters including city name, API key, unit system, and language.
+- A GET request is sent to the OpenWeatherMap API, and the response is returned in JSON format.
+
+5. In the loop, you can specify your city name in ``city``, and OpenWeatherMap will return the weather information for that city. For example, the following code retrieves the weather data for London:
+
+    .. code-block:: python
+
+        while True:
+        # get weather
+        weather_data = get_weather('city', secrets['openweather_api_key'], units=units)
+        #weather_data = get_weather('London', secrets['openweather_api_key'], units=units)
+        weather=weather_data["weather"][0]["main"]
+        t=weather_data["main"]["temp"]
+        rh=weather_data["main"]["humidity"]
+
+2. Finally, the program will display the weather information and time on the LCD1602, updating every 30 seconds.
+
+    .. code-block:: python
+        lcd.clear()
+        time.sleep_ms(200)
+        string = f'{hours:02d}:{mins:02d} {weather}\n'
+        lcd.message(string)
+        string = f'{t}{TEMPERATURE_UNITS[units]} {rh}%rh'
+        lcd.message(string)

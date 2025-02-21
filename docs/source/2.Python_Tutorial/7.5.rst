@@ -55,9 +55,27 @@ Upload the ``play_music.py`` file under the path of ``Ultimate-Starter-Kit-for-P
     
     * Before running the code, you need to make sure you have ``do_connect.py`` and ``secrets.py`` scripts in your Pico W, if not please refer to 8.1 Access to the Network to create them.
 
-.. image:: img/4.software/7.5.png
+1. Before running the project, we need to connect to the network to download the ``umqtt`` module. Ensure that your ``do_connect.py`` and ``secrets.py`` scripts are in your Pico W.
+
+2. Then run the following code in the shell, and your IP address will be displayed:
+   .. code-block:: python
+
+        from do_connect import *
+        do_connect()
+
+3. After a successful network connection, import the ``mip`` module in the shell and use ``mip`` to install the ``umqtt.simple`` module, which is a simplified MQTT client for MicroPython.
+   .. code-block:: python
+
+        import mip
+        mip.install('umqtt.simple')
+
+4. You will see that the ``umqtt`` module is installed under the ``/lib/`` path of Pico W after completion.
+
+.. image:: img/iot/mqtt.png
 
 Click “Run current script” and the shell will print information. You can connect the PICO W to an MQTT platform and then send a song name to make the PICO W play the corresponding song.
+
+.. image:: img/4.software/7.5.png
 
 The following is the program code:
 
@@ -82,7 +100,7 @@ The following is the program code:
     client_id = 'Jimmy'
 
     # to subscribe the message
-    topic = b'LAFVIN MQTT MUSIC'
+    topic = b'LAFVIN MQTT'
 
 
     def callback(topic, message):
@@ -116,5 +134,5 @@ The following is the program code:
 
 Phenomenon
 ^^^^^^^^^^^
-.. video:: img/5.phenomenon/6.13.mp4
+.. image:: img/5.phenomenon/7.5.png
     :width: 100%

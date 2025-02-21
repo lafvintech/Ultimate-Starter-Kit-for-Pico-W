@@ -29,7 +29,7 @@ Code
 ^^^^^^^
 .. note::
 
-    * Open the ``7.6.py`` file under the path of ``Ultimate-Starter-Kit-for-Pico-W\Python\1.Project\iot`` or copy this code into Thonny, then click "Run Current Script" or simply press F5 to run it.
+    * Open the ``6.IOT_relay.py`` file under the path of ``Ultimate-Starter-Kit-for-Pico-W\Python\1.Project\iot`` or copy this code into Thonny, then click "Run Current Script" or simply press F5 to run it.
 
     * Don't forget to click on the "MicroPython (Raspberry Pi Pico)" interpreter in the bottom right corner. 
     
@@ -145,5 +145,5 @@ The following is the program code:
 
 Phenomenon
 ^^^^^^^^^^^
-.. video:: img/5.phenomenon/6.13.mp4
+.. image:: img/5.phenomenon/7.6.png
     :width: 100%

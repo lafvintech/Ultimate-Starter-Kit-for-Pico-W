@@ -28,7 +28,7 @@ Or refer to the following method and create a new ``.py`` file to run it.
 
 #. Create a new script by clicking the **New** button on Thonny, and copy and paste the above code, changing the ``SSID`` and ``PASSWORD`` to your own.
 
-    .. image:: img/access1.png
+    .. image:: img/iot/access1.png
 
 #. To run the script, click the **Run current script** button or press F5. If the connection is successful, ``true`` will be printed. 
 
@@ -36,7 +36,7 @@ Or refer to the following method and create a new ``.py`` file to run it.
 
         Make sure the Raspberry Pi Pico W is connected to computer via a USB cable, then click on the bottom right corner to select MicroPython (Raspberry Pi Pico).COMXxx as the interpreter.
 
-    .. image:: img/access2.png
+    .. image:: img/iot/access2.png
 
 
 2. Timeout Judgment and Show IP
@@ -72,7 +72,7 @@ If the connection is successful, the IP of Pico W will be displayed after copyin
         print('connected')
         print('IP: ', wlan.ifconfig()[0])
 
-.. image:: img/access3.png
+.. image:: img/iot/access3.png
 
 * ``wlan.status()`` function: Returns the current status of the wireless connection, the return value is shown in the table below.
 
@@ -114,7 +114,9 @@ If the connection is successful, the IP of Pico W will be displayed after copyin
 When you share your Pico W project, you should not want others to see your Wi-Fi password or API key.
 For good security, we can create a ``secrets.py`` file to store your private information.
 
-#. Copy the following code into a new script file on Thonny. Note to change ``SSID`` and ``PASSWORD`` to yours.
+你可以在Ultimate-Starter-Kit-for-Pico-W/1.Python/iot中找到这个文件
+
+#. Note to change ``SSID`` and ``PASSWORD`` to yours.
 
     .. code-block:: python
 
@@ -123,17 +125,15 @@ For good security, we can create a ``secrets.py`` file to store your private inf
         'password': 'PASSWORD',
         }
 
-#. Choose Raspberry Pi Pico in the pop-up window that appears when you click the Save button or press ``Ctrl+S``.
+    .. image:: img/iot/access4.png
 
-    .. image:: img/access4.png
+#. 修改完成之后右键上传到你的树莓派PICO W中
 
-#. Set the name to ``secrets.py``.
-
-    .. image:: img/access5.png
+    .. image:: img/iot/access5.png
 
 #. Now you can see this script in your Raspberry Pi Pico W.
 
-    .. image:: img/access6.png
+    .. image:: img/iot/access6.png
 
 #. In other scripts, you can call it as follows. If you run it, you will see a successful Wi-Fi connection. The ``secrets.py`` file is imported as a library, so we need not worry about leakage of information.
 
@@ -163,48 +163,20 @@ For good security, we can create a ``secrets.py`` file to store your private inf
         else:
             print('connected')
             print('IP: ', wlan.ifconfig()[0])
-
-    .. image:: img/access8.png
+            
+    .. image:: img/iot/access7.png
 
 .. _do_connect:
 
-4. Connect to the Internet via ``do_connect.py``
+1. Connect to the Internet via ``do_connect.py``
 --------------------------------------------------------------
+``do_connect.py``是一个简单的脚本，它使用WLAN对象连接到WiFi网络,我们将它设置为一个单独的文件,每次需要使用的时候直接调用它就行了
 
-Considering that each of our next projects will require a network connection, why don't we create a new ``do_connect.py`` file and write the relevant functions into it for reuse, which can greatly streamline the code of complex projects.
+你可以在Ultimate-Starter-Kit-for-Pico-W/1.Python/iot中找到这个文件,我们需要将它上传到pico w中
 
-#. Copy the following code into a new script file, and save it to Raspberry Pi Pico as ``do_connect.py``.
+.. image:: img/iot/access8.png
 
-    .. code-block:: python
-
-        import network
-        import time
-        from secrets import *
-
-        def do_connect(ssid=secrets['ssid'],psk=secrets['password']):
-            wlan = network.WLAN(network.STA_IF)
-            wlan.active(True)
-            wlan.connect(ssid, psk)
-
-            # Wait for connect or fail
-            wait = 10
-            while wait > 0:
-                if wlan.status() < 0 or wlan.status() >= 3:
-                    break
-                wait -= 1
-                print('waiting for connection...')
-                time.sleep(1)
-
-            # Handle connection error
-            if wlan.status() != 3:
-                raise RuntimeError('wifi connection failed')
-            else:
-                print('connected')
-                ip=wlan.ifconfig()[0]
-                print('network config: ', ip)
-                return ip
-
-    .. image:: img/access7.png
+.. image:: img/iot/access9.png
 
 #. Calling it in other scripts by the following will allow the Raspberry Pi Pico W to connect to the network.
 
@@ -212,9 +184,3 @@ Considering that each of our next projects will require a network connection, wh
 
         from do_connect import *
         do_connect()
-
-
-.. https://www.tomshardware.com/reviews/raspberry-pi-pico-w
-
-
-
