@@ -56,7 +56,7 @@ Code
 
 **How it works?**
 
-树莓派pico w访问互联网,靠的是 ``do_connect.py`` and ``secrets.py``这两个脚本,具体的视线情可以参考 :ref:`iot_access`
+The Raspberry Pi Pico W accesses the internet through the scripts ``do_connect.py`` and ``secrets.py``. For more details, see :ref:`network_access`.
 
 .. code-block:: python
 
