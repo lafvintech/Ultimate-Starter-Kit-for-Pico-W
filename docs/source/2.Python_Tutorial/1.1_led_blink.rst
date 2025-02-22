@@ -21,7 +21,7 @@ Component knowledge
 :ref:`LED <cpn_led>`
 """"""""""""""""""""
 
-:ref:`Resistor <component_resistor>`
+:ref:`Resistor <cpn_resistor>`
 """""""""""""""""""""""""""""""""""""
 
 :ref:`Breadboard <cpn_breadboard>`
