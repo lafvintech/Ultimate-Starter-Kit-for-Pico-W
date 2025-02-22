@@ -3,7 +3,7 @@
 Li-po Charger Module
 =================================================
 
-.. image:: img/lipo_charger_module1.png
+.. image:: img/lipo_charger_module2.png
 
 This is a Li-po charger module designed for Raspberry Pi Pico/Pico H/Pico W. Just plug it and the Pico into the breadboard as shown below, and then connect the battery at the other end and you are ready to use.
 
@@ -17,7 +17,7 @@ When you plug in the Pico W with a USB cable connected to a computer or socket, 
     
     In this case, you need to pull out the Li-Po charging module and then plug in the Pico W again.
 
-.. image:: img/lipo_module2.png
+.. image:: img/lipo_charger_module1.png
 
 **Features**
 

@@ -3,7 +3,7 @@
 Micro Switch
 ========================
 
-.. image:: img/micro_switch.png
+.. image:: img/micro_switch1.png
 
 The construction of a micro switch is really simple. The main parts of the switch are:
 
