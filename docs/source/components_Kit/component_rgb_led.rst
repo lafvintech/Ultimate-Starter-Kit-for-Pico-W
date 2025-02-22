@@ -20,5 +20,5 @@ Its circuit symbol is shown as figure.
 
 An RGB LED has 4 pins: the longest one is GND; the others are Red, Green and Blue. Touch its plastic shell and you will find a cut. The pin closest to the cut is the first pin, marked as Red, then GND, Green and Blue in turn. 
 
-.. image:: img/rgb_pin.jpg
+.. image:: img/rgb_pin.png
     :width: 200

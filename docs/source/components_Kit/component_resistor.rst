@@ -59,7 +59,7 @@ if it's larger than any other band gaps, then you can read from the opposite sid
 
 Let’s see how to read the resistance value of a 5-band resistor as shown below.
 
-.. image:: img/220ohm.jpg
+.. image:: img/220ohm.png
     :width: 500
 
 So for this resistor, the resistance should be read from left to right. 

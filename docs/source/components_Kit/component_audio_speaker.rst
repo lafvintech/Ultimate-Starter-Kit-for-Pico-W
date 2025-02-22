@@ -19,7 +19,7 @@ Audio Module and Speaker
 
 **Audio Amplifier Module**
 
-.. image:: img/audio_module.jpg
+.. image:: img/audio_module.png
     :width: 500
     :align: center
 

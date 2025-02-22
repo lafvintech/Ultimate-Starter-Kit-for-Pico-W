@@ -21,16 +21,14 @@ The default address is basically 0x27, in a few cases it may be 0x3F.
 
 Taking the default address of 0x27 as an example, the device address can be modified by shorting the A0/A1/A2 pads; in the default state, A0/A1/A2 is 1, and if the pad is shorted, A0/A1/A2 is 0.
 
-.. image:: img/i2c_address.jpg
+.. image:: img/i2c_address.png
 
 **Backlight/Contrast**
 
 Backlight can be enabled by jumper cap, unplugg the jumper cap to disable the backlight. The blue potentiometer on the back is used to adjust the contrast (the ratio of brightness between the brightest white and the darkest black).
 
 
-|back_lcd1602|
+.. image:: img/back_lcd1602.png
 
 * **Shorting Cap**: Backlight can be enabled by this cap, unplugg this cap to disable the backlight.
 * **Potentiometer**: It is used to adjust the contrast (the clarity of the displayed text), which is increased in the clockwise direction and decreased in the counterclockwise direction.
-
-
