@@ -1,8 +1,9 @@
 About This Kit
 ===============
 
-LAFVIN Ultimate Starter Kit for Pico W W
+LAFVIN Ultimate Starter Kit for Pico W
 ---------------------------------------
+.. image:: about_this_kit.jpg
 
 Introduction
 -------------
