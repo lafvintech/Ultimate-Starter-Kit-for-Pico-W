@@ -27,7 +27,7 @@ Code
 
 `OpenWeatherMap <https://openweathermap.org/>`_ is an online service, owned by OpenWeather Ltd, that provides global weather data via API, including current weather data, forecasts, nowcasts and historical weather data for any geographical location.
 
-#. Visit `OpenWeatherMap <https://home.openweathermap.org/users/sign_in>`_  to log in/create an account.
+#. Visit `OpenWeatherMap website <https://home.openweathermap.org/users/sign_in>`_  to log in/create an account.
 
     .. image:: img/iot/OWM1.png
 
@@ -209,6 +209,7 @@ Principle
 1. The Pico W connects to the network using the ``secrets.py`` and ``do_connect.py`` files.
 
     .. code-block:: python
+
         # connect the network       
         from secrets import *
         from do_connect import *
@@ -222,6 +223,7 @@ Principle
 2. The system time of Pico W is synchronized to Greenwich Mean Time (UTC) using the ``ntptime`` module.
 
     .. code-block:: python
+
         import ntptime
         while True:
         try:
@@ -239,6 +241,7 @@ Principle
 3. The LCD1602 screen is initialized and cleared, and a loading message is displayed.
 
     .. code-block:: python
+
         from lcd1602 import LCD
         lcd=LCD()
         lcd.clear()
@@ -251,6 +254,7 @@ Principle
 4. The ``get_weather`` function is defined to retrieve weather data from the OpenWeatherMap API.
 
     .. code-block:: python
+
         def get_weather(city, api_key, units='metric', lang='en'):
         '''
         Get weather data from openweathermap.org
@@ -282,6 +286,7 @@ Principle
 2. Finally, the program will display the weather information and time on the LCD1602, updating every 30 seconds.
 
     .. code-block:: python
+        
         lcd.clear()
         time.sleep_ms(200)
         string = f'{hours:02d}:{mins:02d} {weather}\n'

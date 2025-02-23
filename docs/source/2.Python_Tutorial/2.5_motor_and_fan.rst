@@ -21,7 +21,7 @@ Component knowledge
 :ref:`TA6586 <cpn_ta6586>`
 """""""""""""""""""""""""""
 
-:ref:`Li-po Charger Module <cpn_li-po_charger_module>`
+:ref:`Li-po Charger Module <cpn_li_po_charger_module>`
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 :ref:`DC Motor <cpn_dc_motor>`

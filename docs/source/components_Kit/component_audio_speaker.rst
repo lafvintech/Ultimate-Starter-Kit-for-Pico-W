@@ -17,7 +17,7 @@ Audio Module and Speaker
 .. image:: img/2030_speaker.png
 
 
-**Audio Amplifier Module**
+**Audio Amplifier Module**  
 
 .. image:: img/audio_module.png
     :width: 500

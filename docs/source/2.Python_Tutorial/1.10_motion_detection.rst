@@ -25,7 +25,6 @@ Schematic
 When the PIR module detects someone passing by, GP14 will be high, otherwise it 
 will be low.
 
-.. 调整灵敏度的说明
 .. note:: 
     The PIR module has two potentiometers: one adjusts sensitivity, the other 
     adjusts detection distance. To make the PIR module work better, you need to 
