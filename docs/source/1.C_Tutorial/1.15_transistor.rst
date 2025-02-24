@@ -22,7 +22,7 @@ Component knowledge
 
 Schematic
 ^^^^^^^^^^
-.. image:: img/2.sch/1.15-1.png
+.. image:: img/2.sch/1.15.png
 
 In this circuit, when the button is pressed, GP14 is high.
 
@@ -32,7 +32,7 @@ allowing the LED to light up.
 
 Connect
 ^^^^^^^^^
-.. image:: img/3.connect/1.15-1.png
+.. image:: img/3.connect/1.15.png
 
 Code
 ^^^^^^^

@@ -10,6 +10,5 @@ Click to view :ref:`C-Tutorial <c_tutorial_0_led>`.
 .. toctree::
     :maxdepth: 2
 
-    install_driver
     download_code
     Notes_For_GPIO

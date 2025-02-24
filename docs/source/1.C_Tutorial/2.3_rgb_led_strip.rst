@@ -52,11 +52,11 @@ Code
 
     * Don’t forget to select the board(Raspberry Pi Pico) and the correct port before clicking the Upload button. 
 
-.. image:: img/4.software/2.3.png
-
 Click “Run current script”, Let’s select some favorite colors and display them on the RGB LED Strip!
 
 The following is the program code:
+
+.. image:: img/4.software/2.3-1.png
 
 .. code-block:: c++
     :caption: 2.3.1_rgb_led_strip.ino
@@ -100,6 +100,8 @@ The following is the program code:
     void loop() {
 
     }
+
+.. image:: img/4.software/2.3-2.png
 
 .. code-block:: c++
     :caption: 2.3.2_rgb_led_strip_flowing.ino
@@ -152,6 +154,7 @@ The following is the program code:
     delay(wait);  // Pause for a moment
     }
 
+.. image:: img/4.software/2.3-3.png
 
 .. code-block:: c++
     :caption: 2.3.3_rgb_led_strip_rainbow.ino
@@ -209,8 +212,6 @@ The following is the program code:
         delay(wait);  // Pause for a moment
     }
     }
-
-
 
 
 Phenomenon

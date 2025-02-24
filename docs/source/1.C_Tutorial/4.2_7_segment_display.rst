@@ -25,7 +25,7 @@ Component List
 
 Component knowledge
 ^^^^^^^^^^^^^^^^^^^^
-:ref:`7-segment Display <cpn_7-segment_display>`
+:ref:`7-segment Display <cpn_7_segment_display>`
 """""""""""""""""""""""""""""""""""""""""""""""""
 
 Schematic

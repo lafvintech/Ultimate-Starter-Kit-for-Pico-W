@@ -4,7 +4,7 @@ You can visit our repository to download the code for our course this time.
 
 `Code Repository <https://github.com/lafvintech/Ultimate-Starter-Kit-for-Pico-W>`_
 
-.. image:: img/download.png
+.. image:: img/download_code.png
 
 Alternatively, you can directly access this (link) in your browser, and it will automatically download the code as a ZIP file.
 
