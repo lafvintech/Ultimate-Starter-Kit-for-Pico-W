@@ -47,15 +47,15 @@ html_theme = 'sphinx_rtd_theme'
 #html_theme = 'press'
 
 # html_static_path = ['_static']
-html_logo = '_static/logo.png'
+# html_logo = '_static/logo.png'
 
 html_theme_options = {
      'logo_only': True,
      'display_version': False,
 }
 
-# 如果你想调整 logo 的大小，可以添加自定义 CSS
-html_static_path = ['_static']
-html_css_files = [
-    'custom.css',
-]
+# # 如果你想调整 logo 的大小，可以添加自定义 CSS
+# html_static_path = ['_static']
+# html_css_files = [
+#     'custom.css',
+# ]
