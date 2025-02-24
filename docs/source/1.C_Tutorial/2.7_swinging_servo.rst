@@ -18,9 +18,8 @@ Component List
 
 Component knowledge
 ^^^^^^^^^^^^^^^^^^^^
-
 :ref:`Servo <cpn_servo>`
-""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""
 
 Schematic
 ^^^^^^^^^^

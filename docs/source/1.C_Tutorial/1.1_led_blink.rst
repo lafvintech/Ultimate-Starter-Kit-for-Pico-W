@@ -1,3 +1,5 @@
+.. _c_1_1_led_blink:
+
 1.1 LED_Blink (Important)
 =================================
 This chapter is the Start Point in the journey to build and explore Raspberry Pi Pico
@@ -21,7 +23,7 @@ Component knowledge
 :ref:`LED <cpn_led>`
 """"""""""""""""""""
 
-:ref:`Resistor <component_resistor>`
+:ref:`Resistor <cpn_resistor>`
 """""""""""""""""""""""""""""""""""""
 
 :ref:`Breadboard <cpn_breadboard>`

@@ -64,7 +64,7 @@ The Raspberry Pi Pico W accesses the internet through the scripts ``do_connect.p
     from do_connect import *
     do_connect()
 
-Set WS2812 RGB strip, please refer to :ref:`py_neopixel` for its usage details. 
+Set WS2812 RGB strip, please refer to :ref:`py_rgb_led_strip` for its usage details. 
 
 .. code-block:: python
 

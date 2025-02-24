@@ -65,8 +65,7 @@ The following is the program code:
     int sensorValue = analogRead(sensorPin);
     Serial.println(sensorValue);
     delay(100);
-}
-
+    }
 
 Phenomenon
 ^^^^^^^^^^^

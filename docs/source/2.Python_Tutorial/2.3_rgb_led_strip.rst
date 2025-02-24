@@ -1,3 +1,5 @@
+.. _py_rgb_led_strip:
+
 2.3 RGB LED Strip
 =========================
 The WS2812 is an intelligent LED light source that integrates a control circuit 

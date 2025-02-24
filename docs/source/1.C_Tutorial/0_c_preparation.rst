@@ -9,7 +9,7 @@ Requirements
 * Mac OS X - Version 10.14: “Mojave” or newer, 64 bits
 
 1.Download the Arduino IDE 2.x.x
--------------------------------
+----------------------------------
 
 #. Visit `Download Arduino IDE <https://www.arduino.cc/en/software>`_ page.
 

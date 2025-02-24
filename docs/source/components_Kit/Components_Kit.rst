@@ -28,6 +28,7 @@ Below is the introduction to each component, which contains the operating princi
     component_reed_switch
     component_relay_module
     component_rgb_led_strip
+    component_servo
     component_slide_switch
     component_water_level_module
     component_4_digit_7_segment_display

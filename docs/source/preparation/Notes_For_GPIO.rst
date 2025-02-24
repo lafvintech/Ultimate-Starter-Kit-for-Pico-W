@@ -1,100 +1,48 @@
 Notes for GPIO
 ==================
+.. image:: img/GPIO/picow-1.png
 
-Strapping Pin
+GPIO Overview
 ---------------
-There are four Strapping pins for ESP32-S3：GPIO0、GPIO45、GPIO46、GPIO3。 
-With the release of the chip's system reset (power-on reset, RTC watchdog reset, 
-undervoltage reset), the strapping pins sample the level and store it in the latch 
-as "0" or "1" ", and keep it until the chip is powered off or turned off. 
-Each Strapping pin is connecting to internal pull-up/pull-down. Connecting to 
-high-impedance external circuit or without an external connection, a strapping 
-pin's default value of input level will be determined by internal weak pull-up/pull-down. 
-To change the value of the Strapping, users can apply an external pulldown/pull-up 
-resistor, or use the GPIO of the host MCU to control the level of the strapping 
-pin when the ESP32-S3’s power on reset is released. 
+The Raspberry Pi Pico W has 26 multi-function GPIO pins (GP0 to GP28, with some numbers not used). 
+All GPIO pins can be assigned various functions, including digital input, digital output, 
+and up to 8 different alternate functions such as UART, I2C, SPI, PWM, etc.
 
-**When releasing the reset, the strapping pin has the same function as a normal pin.** 
-The followings are default configurations of these four strapping pins at power-on 
-and their functions under the corresponding configuration.
+By default, all GPIO pins are configured as digital inputs with pull-down enabled 
+when the Pico W powers up or resets.
 
-.. image:: img/GPIO/GPIO_1.png
+.. note::
+    GPIO pins on the Pico W operate at 3.3V. They are NOT 5V tolerant, and 
+    connecting them to 5V may damage your board.
 
-.. note:: 
-    1.The strapping combination of setting GPIO46 to 1 and GPIO0 to 0 is invalid and may trigger unexpected behavior.
-    2.By default, the ROM boot messages are printed over UART0 (UOTXD pin) and 
-    the USB Serial/JTAG controller together. The ROM code printing can be disabled 
-    through the configuration register and eFuse. For detailed information, please 
-    refer to the 'Chip Boot Control' chapter in the ESP32-S3 Technical Reference 
-    Manual.
+Special Function Pins
+-------------------------
+Some GPIO pins have special default functions on the Pico W:
 
-If you have any difficulties or questions with this tutorial or toolkit, feel free 
-to ask for our quick and free technical support through :guilabel:`tech_edu_service@outlook.com` at 
-any time. or check: `<https://www.espressif.com/sites/default/files/documentation/Raspberry Pi Pico W-1_wroom1u_datasheet_en.pdf>`_
+* **LED Pin**: GP25 is connected to the onboard LED
+* **UART0**: GP0 (TX) and GP1 (RX) are the default UART pins
+* **I2C0**: GP4 (SDA) and GP5 (SCL) are the default I2C pins
+* **SPI0**: GP16-19 are used for the onboard wireless chip (CYW43439)
+* **USB**: GP24 (D-) and GP25 (D+) are used for USB communication
 
-PSRAM Pin
----------------
-The module on the Raspberry Pi Pico W board uses the ESP32-S3R8 chip with 8MB of 
-external Flash. When we use the OPI PSRAM, please note that the GPIO35-GPIO37 on 
-the Raspberry Pi Pico W board will not be available for other purposes. When OPI PSRAM 
-is not used, GPIO35-GPIO37 on the board can be used as normal GPIO.
-
-.. image:: img/GPIO/GPIO_2.png
-
-SDcard Pin
-An SDcard slot is integrated on the back of the Raspberry Pi Pico W board. We can use 
-GPIO38-GPIO40 of Raspberry Pi Pico W to drive SD card. The SDcard of Raspberry Pi Pico W 
-uses SDMMC, a 1-bit bus driving method, which has been integrated in the Arduino 
-IDE, and we can call the "SD_MMC.h" library to drive it. For details, see the 
-SDcard chapter in this tutorial.
-
-USB Pin
-In Micropython, GPIO19 and GPIO20 are used for the USB function of ESP32S3, so 
-they cannot be used as other functions!
-
-Cam Pin
-When using the camera of our ESP32-S3 WROOM, please check the pins of it. Pins 
-with underlined numbers are used by the camera function, if you want to use other 
-functions besides it, please avoid using them.
-
-.. image:: img/GPIO/esp32-s3.svg
+.. image:: img/GPIO/picow_pin.png
    :align: center
 
-+------------+-------------------+
-| CAM_Pin    | GPIO_pin          |
-+============+===================+
-| SIOD       | GPIO4             |
-+------------+-------------------+
-| SIOC       | GPIO5             |
-+------------+-------------------+
-| CSI_VYSNC  | GPIO6             |
-+------------+-------------------+
-| CSI_HREF   | GPIO7             |
-+------------+-------------------+
-| CSI_Y9     | GPIO16            |
-+------------+-------------------+
-| XCLK       | GPIO15            |
-+------------+-------------------+
-| CSI_Y8     | GPIO17            |
-+------------+-------------------+
-| CSI_Y7     | GPIO18            |
-+------------+-------------------+
-| CSI_PCLK   | GPIO13            |
-+------------+-------------------+
-| CSI_Y6     | GPIO12            |
-+------------+-------------------+
-| CSI_Y2     | GPIO11            |
-+------------+-------------------+
-| CSI_Y5     | GPIO10            |
-+------------+-------------------+
-| CSI_Y3     | GPIO9             |
-+------------+-------------------+
-| CSI_Y4     | GPIO8             |
-+------------+-------------------+
 
+For detailed information about GPIO functionality, please refer to the official 
+Raspberry Pi Pico W Technical Documentation: `<https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#picow-technical-specification>`_
 
-If you have any questions about the information of GPIO, you can click here to go 
-back to ESP32-S3 WROOM to view specific information about GPIO. or check: 
-`<https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf>`_
+Or you can click on the links below: 
+
+* `Raspberry Pi Pico W product brief <https://datasheets.raspberrypi.com/picow/pico-w-product-brief.pdf>`_
+* `Raspberry Pi Pico W datasheet <https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf>`_
+* `Getting started with Raspberry Pi Pico: C/C++ development <https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf>`_
+* `Raspberry Pi Pico C/C++ SDK <https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-c-sdk.pdf>`_
+* `API-level Doxygen documentation for the Raspberry Pi Pico C/C++ SDK <https://raspberrypi.github.io/pico-sdk-doxygen/>`_
+* `Raspberry Pi Pico Python SDK <https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-python-sdk.pdf>`_
+* `Raspberry Pi RP2040 datasheet <https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf>`_
+* `Hardware design with RP2040 <https://datasheets.raspberrypi.org/rp2040/hardware-design-with-rp2040.pdf>`_
+* `Raspberry Pi Pico W design files <https://datasheets.raspberrypi.com/picow/RPi-PicoW-PUBLIC-20220607.zip>`_
+* `Raspberry Pi Pico W STEP file <https://datasheets.raspberrypi.com/picow/PicoW-step.zip>`_
 
 

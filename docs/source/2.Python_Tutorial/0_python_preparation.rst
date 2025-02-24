@@ -23,7 +23,7 @@ development environment (IDE), here we recommend Thonny. Thonny comes with Pytho
    we have prepared it in advance.
 
 2.Installation
-------------
+------------------
 Windows
 ^^^^^^^^
 
@@ -70,7 +70,7 @@ Select “View” >> “Files” and “Shell”.
 .. image:: /preparation/img/Python_prepartion/thonny_5.png
 
 (1).Install Micropython Firmware to your Pico(Important)
--------------------------------------------------------
+-------------------------------------------------------------
 We will now install MicroPython onto the Raspberry Pi Pico. Thonny IDE provides a 
 one-click installation method.
 

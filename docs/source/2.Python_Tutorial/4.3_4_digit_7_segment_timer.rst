@@ -24,7 +24,7 @@ Component List
 
 Component knowledge
 ^^^^^^^^^^^^^^^^^^^^
-:ref:`4-Digit 7-Segment Display <cpn_4-digit_7-segment_display>`
+:ref:`4-Digit 7-Segment Display <cpn_4_digit_7_segment_display>`
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Schematic
