@@ -24,4 +24,4 @@ Then the host receives the answer signal and begins to receive 40-bit humiture d
     #. Temperature measurement accuracy: ±2℃
 
 
-* `DHT11 Datasheet <http://wiki.sunfounder.cc/images/c/c7/DHT11_datasheet.pdf>`_
+* `DHT11 Datasheet <https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf?srsltid=AfmBOooi92JcYF4XryfVGxzN6rWYdG9Y2aPWRpiw7p7HqvUF11LQB6y_>`_
