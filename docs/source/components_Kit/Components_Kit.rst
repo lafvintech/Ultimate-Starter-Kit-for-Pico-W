@@ -19,7 +19,7 @@ Below is the introduction to each component, which contains the operating princi
     component_thermistor
     component_tilt_switch
     component_audio_speaker
-    components_joystick_module
+    component_joystick_module
     component_lcd1602
     component_capacitor
     component_led_bar_graph
@@ -37,3 +37,11 @@ Below is the introduction to each component, which contains the operating princi
     component_li_po_charger_module
     component_mpr121
     component_ta6586
+    component_dc_motor
+    component_dc_water_pump
+    component_dht11_module
+    component_infrared_receiver
+    component_led_dot_matrix
+    component_mfrc522_module
+    component_mpu6050_module
+    component_ultrasonic_module
