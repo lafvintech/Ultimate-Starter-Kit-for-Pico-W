@@ -79,7 +79,7 @@ Open the IDE
    are complete unless you click Verify or Upload.
 
 
-Setting Up Your Raspberry Pi Pico
+Setting Up Your Raspberry Pi Pico W
 -----------------------------------
 1.Install UF2 Firmware
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -87,9 +87,9 @@ When you initially connect the Raspberry Pi Pico W or hold down the BOOTSEL butt
 
 To fix this, you need to install UF2 firmware. This firmware supports MicroPython and is also compatible with the Arduino IDE.
 
-* Download the firmware from the link below (or you can also find it in the project folder: **LAFVIN_Super_Starter_Kit_For_Pico/Arduino/3.firmware**).
+* Download the firmware from the link below (or you can also find it in the project folder: **Ultimate-Starter-Kit-for-Pico-W/Arduino/3.firmware**).
 
-* Connect the Pico to your computer using a Micro-USB cable and copy the firmware to the root directory of the Pico.
+* Connect the Pico W to your computer using a Micro-USB cable and copy the firmware to the root directory of the Pico.
 
 * Drag and drop the downloaded UF2 firmware into the RPI-RP2 drive.
 
