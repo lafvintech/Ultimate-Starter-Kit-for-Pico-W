@@ -6,7 +6,7 @@ Requirements
 
 * Windows - Win 10 and newer, 64 bits
 * Linux - 64 bits
-* Mac OS X - Version 10.14: “Mojave” or newer, 64 bits
+* Mac OS X - Version 10.14: "Mojave" or newer, 64 bits
 
 1.Download the Arduino IDE 2.x.x
 ----------------------------------
@@ -83,13 +83,13 @@ Setting Up Your Raspberry Pi Pico W
 -----------------------------------
 1.Install UF2 Firmware
 ^^^^^^^^^^^^^^^^^^^^^^^^
-When you initially connect the Raspberry Pi Pico W or hold down the BOOTSEL button while inserting it, you’ll see the device showing up as a drive without being assigned a COM port. This makes it impossible to upload code.
+When you initially connect the Raspberry Pi Pico W or hold down the BOOTSEL button while inserting it, you'll see the device showing up as a drive without being assigned a COM port. This makes it impossible to upload code.
 
 To fix this, you need to install UF2 firmware. This firmware supports MicroPython and is also compatible with the Arduino IDE.
 
 * Download the firmware from the link below (or you can also find it in the project folder: **Ultimate-Starter-Kit-for-Pico-W/Arduino/3.firmware**).
 
-* Connect the Pico W to your computer using a Micro-USB cable and copy the firmware to the root directory of the Pico.
+* Connect the Pico W to your computer using a Micro-USB cable and copy the firmware to the root directory of the Pico W.
 
 * Drag and drop the downloaded UF2 firmware into the RPI-RP2 drive.
 
@@ -99,13 +99,13 @@ To fix this, you need to install UF2 firmware. This firmware supports MicroPytho
 
 2.Installing the Board Package
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-To program the Raspberry Pi Pico W, you’ll need to install the corresponding package in the Arduino IDE. Here’s a step-by-step guide:
+To program the Raspberry Pi Pico W, you'll need to install the corresponding package in the Arduino IDE. Here's a step-by-step guide:
 
-* In the Boards Manager window, search for pico. Click the Install button to commence the installation. This will install the Arduino Mbed OS RP2040 Boards package, which includes support for the Raspberry Pi Pico W.
+* In the Boards Manager window, search for pico W. Click the Install button to commence the installation. This will install the Arduino Mbed OS RP2040 Boards package, which includes support for the Raspberry Pi Pico W.
 
 .. image:: /preparation/img/C_preparation/board_ins1.png
 
-* During the process, a few pop-up prompts will appear for the installation of specific device drivers. Select “Install”.
+* During the process, a few pop-up prompts will appear for the installation of specific device drivers. Select "Install".
 
 .. image:: /preparation/img/C_preparation/board_ins2.png
 
@@ -113,7 +113,7 @@ To program the Raspberry Pi Pico W, you’ll need to install the corresponding p
 
 3.Selecting the Board and Port
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* To select the appropriate board, navigate to Tools -> Board -> Arduino Mbed OS RP2040 Boards -> Raspberry Pi Pico.
+* To select the appropriate board, navigate to Tools -> Board -> Arduino Mbed OS RP2040 Boards -> Raspberry Pi Pico W.
 
 .. image:: /preparation/img/C_preparation/select_com1.png
 
@@ -123,7 +123,7 @@ To program the Raspberry Pi Pico W, you’ll need to install the corresponding p
 
 * Arduino 2.0 offers a new quick-select feature. For the Raspberry Pi Pico W, which is typically not auto-recognized, click Select other board and port.
 
-* Type Raspberry Pi Pico into the search bar, select it when it shows up, choose the appropriate port, and click OK.
+* Type Raspberry Pi Pico W into the search bar, select it when it shows up, choose the appropriate port, and click OK.
 
 .. image:: /preparation/img/C_preparation/select_com3.png
 
@@ -131,7 +131,7 @@ To program the Raspberry Pi Pico W, you’ll need to install the corresponding p
 
 .. image:: /preparation/img/C_preparation/select_com4.png
 
-* Either of these methods will enable you to set the correct board and port. You’re now all set to upload code to the Raspberry Pi Pico W.
+* Either of these methods will enable you to set the correct board and port. You're now all set to upload code to the Raspberry Pi Pico W.
 
 4.Uploading Code
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -165,8 +165,8 @@ In the Library Manager, you can search for the desired library by name or browse
 .. note:: 
    In projects where library installation is required, there will be prompts 
    indicating which libraries to install. Follow the instructions provided, such 
-   as “The DHT sensor library library is used here, you can install it from the 
-   Library Manager.” Simply install the recommended libraries as prompted.
+   as "The DHT sensor library library is used here, you can install it from the 
+   Library Manager." Simply install the recommended libraries as prompted.
 
 .. image:: /preparation/img/C_preparation/import_lib1.png
 

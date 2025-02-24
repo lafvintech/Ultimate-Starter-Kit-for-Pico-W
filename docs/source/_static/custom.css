@@ -1,0 +1,6 @@
+.wy-side-nav-search .wy-dropdown > a img.logo,
+.wy-side-nav-search > a img.logo {
+    width: 150px;  /* 调整为你想要的宽度 */
+    height: auto;
+    max-width: 100%;
+} 
