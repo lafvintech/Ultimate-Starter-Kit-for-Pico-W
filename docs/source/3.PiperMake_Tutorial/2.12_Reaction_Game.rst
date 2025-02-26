@@ -22,7 +22,7 @@ Component List
 
 Wiring
 ^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: img/Reversing_Radar_Wiring.png
+.. image:: img/Reaction_Game_Wiring.png
 
 * Define 2 buttons as player1 (GP14) and player2 (GP12), both have a pull-up resistor connected. When the buttons are pressed, GP14 and GP12 are each low.
 * Their indicators are connected to GP15 and GP13,  and output high to light them up.
