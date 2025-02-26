@@ -23,7 +23,7 @@ In Piper Make's `home page <https://make.playpiper.com/>`_, click **Import Proje
 
 .. image:: ../img/Save_import_pipermake3.png
 
-Select the ``.png`` file in the path ``kepler-kit-main\piper`` and click **Import**. 
+Select the ``.png`` file in the path ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make`` and click **Import**. 
 Note that you need to download the `Ultimate-Starter-Kit-for-Pico-W <https://github.com/lafvintech/Ultimate-Starter-Kit-for-Pico-W/archive/refs/heads/main.zip>`_ package first.
 Or check out the code at `Ultimate-Starter-Kit-for-Pico-W - GitHub <https://github.com/lafvintech/Ultimate-Starter-Kit-for-Pico-W>`_.
 
