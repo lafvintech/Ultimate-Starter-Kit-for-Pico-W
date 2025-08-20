@@ -1,0 +1,68 @@
+1.14 Water Sensor
+====================
+The water sensor is specifically designed to detect the presence of water and is 
+commonly used to sense rainfall, monitor water levels, and detect liquid leaks. 
+It works by using a set of exposed parallel wire traces that measure the size of 
+water droplets or the volume of water. The water volume is then easily converted 
+into an analog signal, which can be directly read by the main control board to 
+trigger a water level alarm.
+
+.. warning:: 
+
+    The sensor cannot be fully submerged in water, please only leave the part 
+    where the ten Traces are located in contact with water. Also, energizing the 
+    sensor in a humid environment will accelerate the corrosion of the probe and 
+    reduce the life of the sensor, so it is recommended that you only supply power 
+    when taking readings.
+
+Component List
+^^^^^^^^^^^^^^^
+- Raspberry Pi Pico W x1
+- MicroUSB cable x1
+- 830 Tie-Points Breadboard x1
+- Jumper Wire Several
+- Water Level Sensor Module x1
+
+Component knowledge
+^^^^^^^^^^^^^^^^^^^^
+:ref:`Water Level Module <cpn_water_level_module>`
+""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
+1.14.png
+
+Connect
+^^^^^^^^^
+.. image:: img/3.connect/1.14.png
+
+Code
+^^^^^^^
+.. note::
+
+    * Open the ``1.14_water_sensor.py`` file under the path of ``Ultimate-Starter-Kit-for-Pico-W\Python\1.Project`` or copy this code into Thonny, then click "Run Current Script" or simply press F5 to run it.
+
+    * Don't forget to click on the "MicroPython (Raspberry Pi Pico)" interpreter in the bottom right corner. 
+
+.. 1.14.png
+
+After the program is run, submerge the Water Sensor module slowly into the water, 
+and as the depth increases, the Shell will print a larger value.
+
+The following is the program code:
+
+.. code-block:: python
+
+    import machine
+    import utime
+
+    sensor = machine.ADC(28)
+
+    while True:
+        value=sensor.read_u16()
+        print(value)
+        utime.sleep_ms(200)
+
+Phenomenon
+^^^^^^^^^^^
+.. image:: img/5.phenomenon/1.14.png
+    :width: 100%
