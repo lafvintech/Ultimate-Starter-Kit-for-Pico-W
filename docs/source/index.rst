@@ -9,6 +9,6 @@ Ultimate Starter Kit for Pico W
    preparation/preparation
    1.C_Tutorial/c_tutorial
    2.Python_Tutorial/python_tutorial
-   3.PiperMake_Tutorial/pipermake_tutorial
+.. 3.PiperMake_Tutorial/pipermake_tutorial
    components_Kit/Components_Kit
 
