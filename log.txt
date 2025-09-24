@@ -1,0 +1,488 @@
+latexmk -r latexmkrc -pdf -f -dvi- -ps- -jobname=pico-starter-kit-develop -interaction=nonstopmode  
+Use of uninitialized value in concatenation (.) or string at (eval 10) line 1.
+Use of uninitialized value in concatenation (.) or string at (eval 10) line 2.
+Use of uninitialized value in concatenation (.) or string at (eval 10) line 3.
+Use of uninitialized value in concatenation (.) or string at (eval 10) line 4.
+Subroutine makeglo redefined at (eval 11) line 7.
+Use of uninitialized value in concatenation (.) or string at (eval 11) line 1.
+Use of uninitialized value in concatenation (.) or string at (eval 11) line 2.
+Use of uninitialized value in concatenation (.) or string at (eval 11) line 3.
+Use of uninitialized value in concatenation (.) or string at (eval 11) line 4.
+Rc files read:
+  /etc/LatexMk
+  latexmkrc
+  latexmkrc
+Latexmk: This is Latexmk, John Collins, 20 November 2021, version: 4.76.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'ultimate-starter-kit-for-pico-w.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex   -interaction=nonstopmode -recorder --jobname="pico-starter-kit-develop"  "ultimate-starter-kit-for-pico-w.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./ultimate-starter-kit-for-pico-w.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./sphinxmanual.cls
+Document Class: sphinxmanual 2019/12/01 v2.3.0 Document class (Sphinx manual)
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty<<t1.cmap>>)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texmf/tex/latex/tex-gyre/tgtermes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)))
+(/usr/share/texmf/tex/latex/tex-gyre/tgheros.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fncychap/fncychap.sty) (./sphinx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(./sphinxoptionshyperref.sty) (./sphinxoptionsgeometry.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/capt-of/capt-of.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(./sphinxlatexgraphics.sty) (./sphinxpackageboxes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/p2e-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/ellipse/ellipse.sty))
+(./sphinxlatexadmonitions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty))
+(./sphinxlatexliterals.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty))
+(./sphinxlatexshadowbox.sty) (./sphinxlatexcontainers.sty)
+(./sphinxhighlight.sty) (./sphinxlatextables.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty))
+(./sphinxlatexnumfig.sty) (./sphinxlatexlists.sty) (./sphinxpackagefootnote.sty
+) (./sphinxlatexindbibtoc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty))
+(./sphinxlatexstylepage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip-2001-04-09.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty))
+(./sphinxlatexstyleheadings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty))
+(./sphinxlatexstyletext.sty) (./sphinxlatexobjects.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypcap.sty)
+(./sphinxmessages.sty)
+Writing index file pico-starter-kit-develop.idx
+(/usr/share/texmf/tex/latex/tex-gyre/t1qtm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./pico-starter-kit-develop.aux)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+(/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd)<<ot1.cmap>><<oml.cmap>><<oms.cma
+p>><<omx.cmap>> (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/var/lib/texmf/fo
+nts/map/pdftex/updmap/pdftex.map}] [2] [1] [2]
+Chapter 1.
+(/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd) [1]
+Overfull \vbox (12.62543pt too high) has occurred while \output is active
+[2 <./about_this_kit.jpg>] [3] [4]
+Chapter 2.
+[5 <./list.jpg>] [6]
+Chapter 3.
+LaTeX Warning: Hyper reference `1.C_Tutorial/1.1_led_blink:c-1-1-led-blink' on 
+page 7 undefined on input line 153.
+[7 <./download_code.png> <./unzip.png>]
+(/usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd) [8 <./picow-1.png>] [9 <./picow
+_pin.png>] [10]
+Chapter 4.
+[11 <./Install_Arduino_IDE_1.png>] [12 <./Install_Arduino_IDE_2.png>] [13 <./In
+stall_Arduino_IDE_3.png> <./Install_Arduino_IDE_4.png>] [14 <./Install_Arduino_
+IDE_5.png> <./Install_Arduino_IDE_6.png>] [15 <./Install_Arduino_IDE_7.png>]
+[16 <./Install_Arduino_IDE_8.png>] [17 <./ins_uf2_1.png>]libpng error: Not a PNG file
+!pdfTeX error: pdflatex (file ./board_ins2.png): libpng: internal error
+ ==> Fatal error occurred, no output PDF file produced!
+Latexmk: Index file 'pico-starter-kit-develop.idx' was written
+Rule 'makeindex pico-starter-kit-develop.idx': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'pico-starter-kit-develop.idx'
+------------
+Run number 1 of rule 'makeindex pico-starter-kit-develop.idx'
+------------
+Latexmk: Examining 'pico-starter-kit-develop.log'
+=== TeX engine is 'pdfTeX'
+Latexmk: applying rule 'makeindex pico-starter-kit-develop.idx'...
+------------
+Running 'makeindex -s python.ist  -o "pico-starter-kit-develop.ind" "pico-starter-kit-develop.idx"'
+------------
+This is makeindex, version 2.15 [TeX Live 2022/dev] (kpathsea + Thai support).
+Scanning style file ./python.ist.......done (7 attributes redefined, 0 ignored).
+Scanning input file pico-starter-kit-develop.idx...done (0 entries accepted, 0 rejected).
+Nothing written in pico-starter-kit-develop.ind.
+Transcript written in pico-starter-kit-develop.ilg.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'pico-starter-kit-develop.aux'
+      'pico-starter-kit-develop.ind'
+------------
+Run number 2 of rule 'pdflatex'
+------------
+Latexmk: applying rule 'pdflatex'...
+------------
+Running 'pdflatex   -interaction=nonstopmode -recorder --jobname="pico-starter-kit-develop"  "ultimate-starter-kit-for-pico-w.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./ultimate-starter-kit-for-pico-w.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./sphinxmanual.cls
+Document Class: sphinxmanual 2019/12/01 v2.3.0 Document class (Sphinx manual)
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty<<t1.cmap>>)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texmf/tex/latex/tex-gyre/tgtermes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)))
+(/usr/share/texmf/tex/latex/tex-gyre/tgheros.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fncychap/fncychap.sty) (./sphinx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(./sphinxoptionshyperref.sty) (./sphinxoptionsgeometry.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/capt-of/capt-of.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(./sphinxlatexgraphics.sty) (./sphinxpackageboxes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/p2e-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/ellipse/ellipse.sty))
+(./sphinxlatexadmonitions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty))
+(./sphinxlatexliterals.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty))
+(./sphinxlatexshadowbox.sty) (./sphinxlatexcontainers.sty)
+(./sphinxhighlight.sty) (./sphinxlatextables.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty))
+(./sphinxlatexnumfig.sty) (./sphinxlatexlists.sty) (./sphinxpackagefootnote.sty
+) (./sphinxlatexindbibtoc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty))
+(./sphinxlatexstylepage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip-2001-04-09.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty))
+(./sphinxlatexstyleheadings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty))
+(./sphinxlatexstyletext.sty) (./sphinxlatexobjects.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypcap.sty)
+(./sphinxmessages.sty)
+Writing index file pico-starter-kit-develop.idx
+(/usr/share/texmf/tex/latex/tex-gyre/t1qtm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./pico-starter-kit-develop.aux)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+(./pico-starter-kit-develop.out) (./pico-starter-kit-develop.out)
+(/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd)<<ot1.cmap>><<oml.cmap>><<oms.cma
+p>><<omx.cmap>> (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/var/lib/texmf/fo
+nts/map/pdftex/updmap/pdftex.map}] [2] (./pico-starter-kit-develop.toc)
+[1] [2]
+Chapter 1.
+(/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd) [1]
+Overfull \vbox (12.62543pt too high) has occurred while \output is active
+[2 <./about_this_kit.jpg>] [3] [4]
+Chapter 2.
+[5 <./list.jpg>] [6]
+Chapter 3.
+LaTeX Warning: Hyper reference `1.C_Tutorial/1.1_led_blink:c-1-1-led-blink' on 
+page 7 undefined on input line 153.
+[7 <./download_code.png> <./unzip.png>]
+(/usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd) [8 <./picow-1.png>] [9 <./picow
+_pin.png>] [10]
+Chapter 4.
+[11 <./Install_Arduino_IDE_1.png>] [12 <./Install_Arduino_IDE_2.png>] [13 <./In
+stall_Arduino_IDE_3.png> <./Install_Arduino_IDE_4.png>] [14 <./Install_Arduino_
+IDE_5.png> <./Install_Arduino_IDE_6.png>] [15 <./Install_Arduino_IDE_7.png>]
+[16 <./Install_Arduino_IDE_8.png>] [17 <./ins_uf2_1.png>]libpng error: Not a PNG file
+!pdfTeX error: pdflatex (file ./board_ins2.png): libpng: internal error
+ ==> Fatal error occurred, no output PDF file produced!
+Latexmk: Index file 'pico-starter-kit-develop.idx' was written
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'pico-starter-kit-develop.out'
+      'pico-starter-kit-develop.toc'
+------------
+Run number 3 of rule 'pdflatex'
+------------
+Latexmk: Examining 'pico-starter-kit-develop.log'
+=== TeX engine is 'pdfTeX'
+Latexmk: applying rule 'pdflatex'...
+------------
+Running 'pdflatex   -interaction=nonstopmode -recorder --jobname="pico-starter-kit-develop"  "ultimate-starter-kit-for-pico-w.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./ultimate-starter-kit-for-pico-w.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./sphinxmanual.cls
+Document Class: sphinxmanual 2019/12/01 v2.3.0 Document class (Sphinx manual)
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty<<t1.cmap>>)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texmf/tex/latex/tex-gyre/tgtermes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)))
+(/usr/share/texmf/tex/latex/tex-gyre/tgheros.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fncychap/fncychap.sty) (./sphinx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(./sphinxoptionshyperref.sty) (./sphinxoptionsgeometry.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/capt-of/capt-of.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(./sphinxlatexgraphics.sty) (./sphinxpackageboxes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pict2e/p2e-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/ellipse/ellipse.sty))
+(./sphinxlatexadmonitions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty))
+(./sphinxlatexliterals.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty))
+(./sphinxlatexshadowbox.sty) (./sphinxlatexcontainers.sty)
+(./sphinxhighlight.sty) (./sphinxlatextables.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty))
+(./sphinxlatexnumfig.sty) (./sphinxlatexlists.sty) (./sphinxpackagefootnote.sty
+) (./sphinxlatexindbibtoc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty))
+(./sphinxlatexstylepage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip-2001-04-09.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty))
+(./sphinxlatexstyleheadings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty))
+(./sphinxlatexstyletext.sty) (./sphinxlatexobjects.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypcap.sty)
+(./sphinxmessages.sty)
+Writing index file pico-starter-kit-develop.idx
+(/usr/share/texmf/tex/latex/tex-gyre/t1qtm.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./pico-starter-kit-develop.aux)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+(./pico-starter-kit-develop.out) (./pico-starter-kit-develop.out)
+(/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd)<<ot1.cmap>><<oml.cmap>><<oms.cma
+p>><<omx.cmap>> (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/var/lib/texmf/fo
+nts/map/pdftex/updmap/pdftex.map}] [2] (./pico-starter-kit-develop.toc)
+[1] [2]
+Chapter 1.
+(/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd) [1]
+Overfull \vbox (12.62543pt too high) has occurred while \output is active
+[2 <./about_this_kit.jpg>] [3] [4]
+Chapter 2.
+[5 <./list.jpg>] [6]
+Chapter 3.
+LaTeX Warning: Hyper reference `1.C_Tutorial/1.1_led_blink:c-1-1-led-blink' on 
+page 7 undefined on input line 153.
+[7 <./download_code.png> <./unzip.png>]
+(/usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd) [8 <./picow-1.png>] [9 <./picow
+_pin.png>] [10]
+Chapter 4.
+[11 <./Install_Arduino_IDE_1.png>] [12 <./Install_Arduino_IDE_2.png>] [13 <./In
+stall_Arduino_IDE_3.png> <./Install_Arduino_IDE_4.png>] [14 <./Install_Arduino_
+IDE_5.png> <./Install_Arduino_IDE_6.png>] [15 <./Install_Arduino_IDE_7.png>]
+[16 <./Install_Arduino_IDE_8.png>] [17 <./ins_uf2_1.png>]libpng error: Not a PNG file
+!pdfTeX error: pdflatex (file ./board_ins2.png): libpng: internal error
+ ==> Fatal error occurred, no output PDF file produced!
+Latexmk: Index file 'pico-starter-kit-develop.idx' was written
+Failure to make 'pico-starter-kit-develop.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'pico-starter-kit-develop.log' for details
+Latexmk: Examining 'pico-starter-kit-develop.log'
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, in force_mode: so I tried finishing targets

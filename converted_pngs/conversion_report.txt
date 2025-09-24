@@ -1,0 +1,2121 @@
+============================================================
+FAKE PNG CONVERSION REPORT
+============================================================
+Generated: 2025-09-24T21:43:16.641654
+
+SUMMARY:
+------------------------------
+Total files processed: 263
+Successful conversions: 263
+Failed conversions: 0
+Successful replacements: 263
+Failed replacements: 0
+
+CONVERSION DETAILS:
+------------------------------
+✓ 1.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\1.detail\1.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.3.png
+   Message: Successfully converted 1.3.png
+
+✓ 1.6.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\1.detail\1.6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.6.png
+   Message: Successfully converted 1.6.png
+
+✓ 1.7.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\1.detail\1.7.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.7.png
+   Message: Successfully converted 1.7.png
+
+✓ 2.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\1.detail\2.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.1.png
+   Message: Successfully converted 2.1.png
+
+✓ 4.2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\1.detail\4.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\4.2.png
+   Message: Successfully converted 4.2.png
+
+✓ 5.2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\1.detail\5.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.2.png
+   Message: Successfully converted 5.2.png
+
+✓ 1.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.1.png
+   Message: Successfully converted 1.1.png
+
+✓ 1.10.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.10.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.10.png
+   Message: Successfully converted 1.10.png
+
+✓ 1.11.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.11.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.11.png
+   Message: Successfully converted 1.11.png
+
+✓ 1.12.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.12.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.12.png
+   Message: Successfully converted 1.12.png
+
+✓ 1.13.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.13.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.13.png
+   Message: Successfully converted 1.13.png
+
+✓ 1.14.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.14.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.14.png
+   Message: Successfully converted 1.14.png
+
+✓ 1.15.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.15.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.15.png
+   Message: Successfully converted 1.15.png
+
+✓ 1.2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.2.png
+   Message: Successfully converted 1.2.png
+
+✓ 1.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.3.png
+   Message: Successfully converted 1.3.png
+
+✓ 1.4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.4.png
+   Message: Successfully converted 1.4.png
+
+✓ 1.5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.5.png
+   Message: Successfully converted 1.5.png
+
+✓ 1.6.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.6.png
+   Message: Successfully converted 1.6.png
+
+✓ 1.7.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.7.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.7.png
+   Message: Successfully converted 1.7.png
+
+✓ 1.8.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.8.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.8.png
+   Message: Successfully converted 1.8.png
+
+✓ 1.9.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.9.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.9.png
+   Message: Successfully converted 1.9.png
+
+✓ 2.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.1.png
+   Message: Successfully converted 2.1.png
+
+✓ 2.2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.2.png
+   Message: Successfully converted 2.2.png
+
+✓ 2.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.3.png
+   Message: Successfully converted 2.3.png
+
+✓ 2.4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.4.png
+   Message: Successfully converted 2.4.png
+
+✓ 2.5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.5.png
+   Message: Successfully converted 2.5.png
+
+✓ 2.6.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.6.png
+   Message: Successfully converted 2.6.png
+
+✓ 2.7.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.7.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.7.png
+   Message: Successfully converted 2.7.png
+
+✓ 3.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\3.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\3.1.png
+   Message: Successfully converted 3.1.png
+
+✓ 3.2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\3.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\3.2.png
+   Message: Successfully converted 3.2.png
+
+✓ 3.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\3.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\3.3.png
+   Message: Successfully converted 3.3.png
+
+✓ 4.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\4.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\4.1.png
+   Message: Successfully converted 4.1.png
+
+✓ 4.2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\4.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\4.2.png
+   Message: Successfully converted 4.2.png
+
+✓ 4.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\4.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\4.3.png
+   Message: Successfully converted 4.3.png
+
+✓ 4.4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\4.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\4.4.png
+   Message: Successfully converted 4.4.png
+
+✓ 5.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\5.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.1.png
+   Message: Successfully converted 5.1.png
+
+✓ 5.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\5.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.3.png
+   Message: Successfully converted 5.3.png
+
+✓ 5.4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\5.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.4.png
+   Message: Successfully converted 5.4.png
+
+✓ 5.5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\5.5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.5.png
+   Message: Successfully converted 5.5.png
+
+✓ 6.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.1.png
+   Message: Successfully converted 6.1.png
+
+✓ 6.10.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.10.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.10.png
+   Message: Successfully converted 6.10.png
+
+✓ 6.11.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.11.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.11.png
+   Message: Successfully converted 6.11.png
+
+✓ 6.12.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.12.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.12.png
+   Message: Successfully converted 6.12.png
+
+✓ 6.13.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.13.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.13.png
+   Message: Successfully converted 6.13.png
+
+✓ 6.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.3.png
+   Message: Successfully converted 6.3.png
+
+✓ 6.4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.4.png
+   Message: Successfully converted 6.4.png
+
+✓ 6.5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.5.png
+   Message: Successfully converted 6.5.png
+
+✓ 6.6.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.6.png
+   Message: Successfully converted 6.6.png
+
+✓ 6.7.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.7.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.7.png
+   Message: Successfully converted 6.7.png
+
+✓ 6.8.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.8.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.8.png
+   Message: Successfully converted 6.8.png
+
+✓ 6.9.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.9.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.9.png
+   Message: Successfully converted 6.9.png
+
+✓ 6.5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\3.connect\6.5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.5.png
+   Message: Successfully converted 6.5.png
+
+✓ 6.9.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\3.connect\6.9.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.9.png
+   Message: Successfully converted 6.9.png
+
+✓ 1.10.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.10.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.10.png
+   Message: Successfully converted 1.10.png
+
+✓ 1.12.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.12.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.12.png
+   Message: Successfully converted 1.12.png
+
+✓ 1.13.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.13.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.13.png
+   Message: Successfully converted 1.13.png
+
+✓ 1.14.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.14.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.14.png
+   Message: Successfully converted 1.14.png
+
+✓ 1.2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.2.png
+   Message: Successfully converted 1.2.png
+
+✓ 1.6.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.6.png
+   Message: Successfully converted 1.6.png
+
+✓ 1.7.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.7.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.7.png
+   Message: Successfully converted 1.7.png
+
+✓ 1.8.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.8.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.8.png
+   Message: Successfully converted 1.8.png
+
+✓ 1.9.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.9.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.9.png
+   Message: Successfully converted 1.9.png
+
+✓ 2.1.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\2.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.1.png
+   Message: Successfully converted 2.1.png
+
+✓ 2.2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\2.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.2.png
+   Message: Successfully converted 2.2.png
+
+✓ 2.3.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\2.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.3.png
+   Message: Successfully converted 2.3.png
+
+✓ 3.1.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\3.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\3.1.png
+   Message: Successfully converted 3.1.png
+
+✓ 3.2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\3.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\3.2.png
+   Message: Successfully converted 3.2.png
+
+✓ 3.3.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\3.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\3.3.png
+   Message: Successfully converted 3.3.png
+
+✓ 5.1.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\5.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.1.png
+   Message: Successfully converted 5.1.png
+
+✓ 5.2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\5.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.2.png
+   Message: Successfully converted 5.2.png
+
+✓ 5.3.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\5.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.3.png
+   Message: Successfully converted 5.3.png
+
+✓ 5.4.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\5.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.4.png
+   Message: Successfully converted 5.4.png
+
+✓ 5.5.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\5.5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.5.png
+   Message: Successfully converted 5.5.png
+
+✓ 6.11.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\6.11.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.11.png
+   Message: Successfully converted 6.11.png
+
+✓ 6.12.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\6.12.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.12.png
+   Message: Successfully converted 6.12.png
+
+✓ pico_adc.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\6.other\pico_adc.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\pico_adc.png
+   Message: Successfully converted pico_adc.png
+
+✓ PIR.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\6.other\PIR.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\PIR.png
+   Message: Successfully converted PIR.png
+
+✓ PIR2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\6.other\PIR2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\PIR2.png
+   Message: Successfully converted PIR2.png
+
+✓ 1.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\1.detail\1.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.3.png
+   Message: Successfully converted 1.3.png
+
+✓ 1.6.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\1.detail\1.6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.6.png
+   Message: Successfully converted 1.6.png
+
+✓ 1.7.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\1.detail\1.7.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.7.png
+   Message: Successfully converted 1.7.png
+
+✓ 2.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\1.detail\2.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.1.png
+   Message: Successfully converted 2.1.png
+
+✓ 4.2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\1.detail\4.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\4.2.png
+   Message: Successfully converted 4.2.png
+
+✓ 5.2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\1.detail\5.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.2.png
+   Message: Successfully converted 5.2.png
+
+✓ 1.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.1.png
+   Message: Successfully converted 1.1.png
+
+✓ 1.10.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.10.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.10.png
+   Message: Successfully converted 1.10.png
+
+✓ 1.11.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.11.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.11.png
+   Message: Successfully converted 1.11.png
+
+✓ 1.12.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.12.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.12.png
+   Message: Successfully converted 1.12.png
+
+✓ 1.13.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.13.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.13.png
+   Message: Successfully converted 1.13.png
+
+✓ 1.14.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.14.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.14.png
+   Message: Successfully converted 1.14.png
+
+✓ 1.15.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.15.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.15.png
+   Message: Successfully converted 1.15.png
+
+✓ 1.2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.2.png
+   Message: Successfully converted 1.2.png
+
+✓ 1.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.3.png
+   Message: Successfully converted 1.3.png
+
+✓ 1.4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.4.png
+   Message: Successfully converted 1.4.png
+
+✓ 1.5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.5.png
+   Message: Successfully converted 1.5.png
+
+✓ 1.6.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.6.png
+   Message: Successfully converted 1.6.png
+
+✓ 1.7.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.7.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.7.png
+   Message: Successfully converted 1.7.png
+
+✓ 1.8.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.8.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.8.png
+   Message: Successfully converted 1.8.png
+
+✓ 1.9.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.9.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.9.png
+   Message: Successfully converted 1.9.png
+
+✓ 2.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.1.png
+   Message: Successfully converted 2.1.png
+
+✓ 2.2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.2.png
+   Message: Successfully converted 2.2.png
+
+✓ 2.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.3.png
+   Message: Successfully converted 2.3.png
+
+✓ 2.4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.4.png
+   Message: Successfully converted 2.4.png
+
+✓ 2.5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.5.png
+   Message: Successfully converted 2.5.png
+
+✓ 2.6.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.6.png
+   Message: Successfully converted 2.6.png
+
+✓ 2.7.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.7.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.7.png
+   Message: Successfully converted 2.7.png
+
+✓ 3.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\3.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\3.1.png
+   Message: Successfully converted 3.1.png
+
+✓ 3.2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\3.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\3.2.png
+   Message: Successfully converted 3.2.png
+
+✓ 3.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\3.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\3.3.png
+   Message: Successfully converted 3.3.png
+
+✓ 4.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\4.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\4.1.png
+   Message: Successfully converted 4.1.png
+
+✓ 4.2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\4.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\4.2.png
+   Message: Successfully converted 4.2.png
+
+✓ 4.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\4.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\4.3.png
+   Message: Successfully converted 4.3.png
+
+✓ 4.4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\4.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\4.4.png
+   Message: Successfully converted 4.4.png
+
+✓ 5.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\5.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.1.png
+   Message: Successfully converted 5.1.png
+
+✓ 5.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\5.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.3.png
+   Message: Successfully converted 5.3.png
+
+✓ 5.4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\5.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.4.png
+   Message: Successfully converted 5.4.png
+
+✓ 5.5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\5.5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.5.png
+   Message: Successfully converted 5.5.png
+
+✓ 6.1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.1.png
+   Message: Successfully converted 6.1.png
+
+✓ 6.10.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.10.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.10.png
+   Message: Successfully converted 6.10.png
+
+✓ 6.11.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.11.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.11.png
+   Message: Successfully converted 6.11.png
+
+✓ 6.12.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.12.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.12.png
+   Message: Successfully converted 6.12.png
+
+✓ 6.13.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.13.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.13.png
+   Message: Successfully converted 6.13.png
+
+✓ 6.3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.3.png
+   Message: Successfully converted 6.3.png
+
+✓ 6.4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.4.png
+   Message: Successfully converted 6.4.png
+
+✓ 6.5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.5.png
+   Message: Successfully converted 6.5.png
+
+✓ 6.6.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.6.png
+   Message: Successfully converted 6.6.png
+
+✓ 6.7.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.7.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.7.png
+   Message: Successfully converted 6.7.png
+
+✓ 6.8.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.8.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.8.png
+   Message: Successfully converted 6.8.png
+
+✓ 6.9.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.9.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.9.png
+   Message: Successfully converted 6.9.png
+
+✓ 1.10.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.10.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.10.png
+   Message: Successfully converted 1.10.png
+
+✓ 1.12.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.12.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.12.png
+   Message: Successfully converted 1.12.png
+
+✓ 1.13.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.13.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.13.png
+   Message: Successfully converted 1.13.png
+
+✓ 1.14.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.14.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.14.png
+   Message: Successfully converted 1.14.png
+
+✓ 1.2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.2.png
+   Message: Successfully converted 1.2.png
+
+✓ 1.6.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.6.png
+   Message: Successfully converted 1.6.png
+
+✓ 1.7.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.7.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.7.png
+   Message: Successfully converted 1.7.png
+
+✓ 1.8.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.8.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.8.png
+   Message: Successfully converted 1.8.png
+
+✓ 1.9.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.9.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\1.9.png
+   Message: Successfully converted 1.9.png
+
+✓ 2.1.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\2.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.1.png
+   Message: Successfully converted 2.1.png
+
+✓ 2.2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\2.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.2.png
+   Message: Successfully converted 2.2.png
+
+✓ 2.3.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\2.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\2.3.png
+   Message: Successfully converted 2.3.png
+
+✓ 3.1.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\3.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\3.1.png
+   Message: Successfully converted 3.1.png
+
+✓ 3.2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\3.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\3.2.png
+   Message: Successfully converted 3.2.png
+
+✓ 3.3.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\3.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\3.3.png
+   Message: Successfully converted 3.3.png
+
+✓ 5.1.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\5.1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.1.png
+   Message: Successfully converted 5.1.png
+
+✓ 5.2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\5.2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.2.png
+   Message: Successfully converted 5.2.png
+
+✓ 5.3.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\5.3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.3.png
+   Message: Successfully converted 5.3.png
+
+✓ 5.4.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\5.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.4.png
+   Message: Successfully converted 5.4.png
+
+✓ 5.5.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\5.5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\5.5.png
+   Message: Successfully converted 5.5.png
+
+✓ 6.11.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\6.11.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.11.png
+   Message: Successfully converted 6.11.png
+
+✓ 6.12.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\6.12.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\6.12.png
+   Message: Successfully converted 6.12.png
+
+✓ 7.4.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\7.4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\7.4.png
+   Message: Successfully converted 7.4.png
+
+✓ pico_adc.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\6.other\pico_adc.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\pico_adc.png
+   Message: Successfully converted pico_adc.png
+
+✓ PIR.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\6.other\PIR.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\PIR.png
+   Message: Successfully converted PIR.png
+
+✓ PIR2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\6.other\PIR2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\PIR2.png
+   Message: Successfully converted PIR2.png
+
+✓ OWM2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\iot\OWM2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\OWM2.png
+   Message: Successfully converted OWM2.png
+
+✓ blink_code.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\blink_code.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\blink_code.png
+   Message: Successfully converted blink_code.png
+
+✓ DoorBell_Code.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\DoorBell_Code.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\DoorBell_Code.png
+   Message: Successfully converted DoorBell_Code.png
+
+✓ DoorBell_micro_pic.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\DoorBell_micro_pic.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\DoorBell_micro_pic.png
+   Message: Successfully converted DoorBell_micro_pic.png
+
+✓ DoorBell_Wiring.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\DoorBell_Wiring.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\DoorBell_Wiring.png
+   Message: Successfully converted DoorBell_Wiring.png
+
+✓ Drummer_Code.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Drummer_Code.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Drummer_Code.png
+   Message: Successfully converted Drummer_Code.png
+
+✓ Drummer_Wiring.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Drummer_Wiring.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Drummer_Wiring.png
+   Message: Successfully converted Drummer_Wiring.png
+
+✓ Fan_Code.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Fan_Code.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Fan_Code.png
+   Message: Successfully converted Fan_Code.png
+
+✓ Fan_Code3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Fan_Code3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Fan_Code3.png
+   Message: Successfully converted Fan_Code3.png
+
+✓ Fan_Code4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Fan_Code4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Fan_Code4.png
+   Message: Successfully converted Fan_Code4.png
+
+✓ Fan_Code5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Fan_Code5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Fan_Code5.png
+   Message: Successfully converted Fan_Code5.png
+
+✓ Fan_Wiring.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Fan_Wiring.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Fan_Wiring.png
+   Message: Successfully converted Fan_Wiring.png
+
+✓ Light_Intensity_Code1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Light_Intensity_Code1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Light_Intensity_Code1.png
+   Message: Successfully converted Light_Intensity_Code1.png
+
+✓ Light_Intensity_Code2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Light_Intensity_Code2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Light_Intensity_Code2.png
+   Message: Successfully converted Light_Intensity_Code2.png
+
+✓ Pet_Code.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Pet_Code.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Pet_Code.png
+   Message: Successfully converted Pet_Code.png
+
+✓ Pet_Code2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Pet_Code2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Pet_Code2.png
+   Message: Successfully converted Pet_Code2.png
+
+✓ Pet_Code3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Pet_Code3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Pet_Code3.png
+   Message: Successfully converted Pet_Code3.png
+
+✓ Pet_Code4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Pet_Code4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Pet_Code4.png
+   Message: Successfully converted Pet_Code4.png
+
+✓ Pet_Wiring.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Pet_Wiring.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Pet_Wiring.png
+   Message: Successfully converted Pet_Wiring.png
+
+✓ Potentiometer_Servo_Code3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Potentiometer_Servo_Code3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Potentiometer_Servo_Code3.png
+   Message: Successfully converted Potentiometer_Servo_Code3.png
+
+✓ Potentiometer_Servo_Wiring.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Potentiometer_Servo_Wiring.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Potentiometer_Servo_Wiring.png
+   Message: Successfully converted Potentiometer_Servo_Wiring.png
+
+✓ Quick_Guide_pipermake10.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake10.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Quick_Guide_pipermake10.png
+   Message: Successfully converted Quick_Guide_pipermake10.png
+
+✓ Quick_Guide_pipermake11.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake11.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Quick_Guide_pipermake11.png
+   Message: Successfully converted Quick_Guide_pipermake11.png
+
+✓ Quick_Guide_pipermake3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Quick_Guide_pipermake3.png
+   Message: Successfully converted Quick_Guide_pipermake3.png
+
+✓ Quick_Guide_pipermake4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Quick_Guide_pipermake4.png
+   Message: Successfully converted Quick_Guide_pipermake4.png
+
+✓ Quick_Guide_pipermake5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Quick_Guide_pipermake5.png
+   Message: Successfully converted Quick_Guide_pipermake5.png
+
+✓ Quick_Guide_pipermake6.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Quick_Guide_pipermake6.png
+   Message: Successfully converted Quick_Guide_pipermake6.png
+
+✓ Quick_Guide_pipermake8.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake8.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Quick_Guide_pipermake8.png
+   Message: Successfully converted Quick_Guide_pipermake8.png
+
+✓ Quick_Guide_pipermake9.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake9.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Quick_Guide_pipermake9.png
+   Message: Successfully converted Quick_Guide_pipermake9.png
+
+✓ Reaction_Game_Code2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reaction_Game_Code2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Reaction_Game_Code2.png
+   Message: Successfully converted Reaction_Game_Code2.png
+
+✓ Reaction_Game_Code3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reaction_Game_Code3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Reaction_Game_Code3.png
+   Message: Successfully converted Reaction_Game_Code3.png
+
+✓ Reaction_Game_Code4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reaction_Game_Code4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Reaction_Game_Code4.png
+   Message: Successfully converted Reaction_Game_Code4.png
+
+✓ Reaction_Game_Code5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reaction_Game_Code5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Reaction_Game_Code5.png
+   Message: Successfully converted Reaction_Game_Code5.png
+
+✓ Reaction_Game_Code6.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reaction_Game_Code6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Reaction_Game_Code6.png
+   Message: Successfully converted Reaction_Game_Code6.png
+
+✓ Reaction_Game_Wiring.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reaction_Game_Wiring.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Reaction_Game_Wiring.png
+   Message: Successfully converted Reaction_Game_Wiring.png
+
+✓ Reversing_Radar_Code.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reversing_Radar_Code.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Reversing_Radar_Code.png
+   Message: Successfully converted Reversing_Radar_Code.png
+
+✓ Reversing_Radar_Code2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reversing_Radar_Code2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Reversing_Radar_Code2.png
+   Message: Successfully converted Reversing_Radar_Code2.png
+
+✓ Reversing_Radar_Code4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reversing_Radar_Code4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Reversing_Radar_Code4.png
+   Message: Successfully converted Reversing_Radar_Code4.png
+
+✓ Reversing_Radar_Code6.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reversing_Radar_Code6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Reversing_Radar_Code6.png
+   Message: Successfully converted Reversing_Radar_Code6.png
+
+✓ RGB_Mixing_Code.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\RGB_Mixing_Code.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\RGB_Mixing_Code.png
+   Message: Successfully converted RGB_Mixing_Code.png
+
+✓ RGB_Mixing_rgbled.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\RGB_Mixing_rgbled.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\RGB_Mixing_rgbled.png
+   Message: Successfully converted RGB_Mixing_rgbled.png
+
+✓ RGB_Mixing_Wiring.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\RGB_Mixing_Wiring.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\RGB_Mixing_Wiring.png
+   Message: Successfully converted RGB_Mixing_Wiring.png
+
+✓ Save_import_pipermake1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Save_import_pipermake1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Save_import_pipermake1.png
+   Message: Successfully converted Save_import_pipermake1.png
+
+✓ Save_import_pipermake2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Save_import_pipermake2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Save_import_pipermake2.png
+   Message: Successfully converted Save_import_pipermake2.png
+
+✓ Save_import_pipermake5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Save_import_pipermake5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Save_import_pipermake5.png
+   Message: Successfully converted Save_import_pipermake5.png
+
+✓ setup_pipermake2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\setup_pipermake2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\setup_pipermake2.png
+   Message: Successfully converted setup_pipermake2.png
+
+✓ setup_pipermake3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\setup_pipermake3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\setup_pipermake3.png
+   Message: Successfully converted setup_pipermake3.png
+
+✓ setup_pipermake7.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\setup_pipermake7.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\setup_pipermake7.png
+   Message: Successfully converted setup_pipermake7.png
+
+✓ Water_Tank_Code.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Water_Tank_Code.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Water_Tank_Code.png
+   Message: Successfully converted Water_Tank_Code.png
+
+✓ Water_Tank_Code2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Water_Tank_Code2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Water_Tank_Code2.png
+   Message: Successfully converted Water_Tank_Code2.png
+
+✓ Water_Tank_Code3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Water_Tank_Code3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Water_Tank_Code3.png
+   Message: Successfully converted Water_Tank_Code3.png
+
+✓ Water_Tank_Code4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Water_Tank_Code4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Water_Tank_Code4.png
+   Message: Successfully converted Water_Tank_Code4.png
+
+✓ Water_Tank_Wiring.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Water_Tank_Wiring.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Water_Tank_Wiring.png
+   Message: Successfully converted Water_Tank_Wiring.png
+
+✓ Water_Tank_Wiring2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Water_Tank_Wiring2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Water_Tank_Wiring2.png
+   Message: Successfully converted Water_Tank_Wiring2.png
+
+✓ wiring_led.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\wiring_led.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\wiring_led.png
+   Message: Successfully converted wiring_led.png
+
+✓ WS2812_Strip_Code.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Code.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\WS2812_Strip_Code.png
+   Message: Successfully converted WS2812_Strip_Code.png
+
+✓ WS2812_Strip_Code2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Code2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\WS2812_Strip_Code2.png
+   Message: Successfully converted WS2812_Strip_Code2.png
+
+✓ WS2812_Strip_Code3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Code3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\WS2812_Strip_Code3.png
+   Message: Successfully converted WS2812_Strip_Code3.png
+
+✓ WS2812_Strip_Code4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Code4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\WS2812_Strip_Code4.png
+   Message: Successfully converted WS2812_Strip_Code4.png
+
+✓ WS2812_Strip_Code5.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Code5.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\WS2812_Strip_Code5.png
+   Message: Successfully converted WS2812_Strip_Code5.png
+
+✓ WS2812_Strip_Code6.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Code6.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\WS2812_Strip_Code6.png
+   Message: Successfully converted WS2812_Strip_Code6.png
+
+✓ WS2812_Strip_Wiring.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Wiring.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\WS2812_Strip_Wiring.png
+   Message: Successfully converted WS2812_Strip_Wiring.png
+
+✓ 220ohm.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\220ohm.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\220ohm.png
+   Message: Successfully converted 220ohm.png
+
+✓ 4_digit_7_segment_display1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\4_digit_7_segment_display1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\4_digit_7_segment_display1.png
+   Message: Successfully converted 4_digit_7_segment_display1.png
+
+✓ 4_digit_7_segment_display2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\4_digit_7_segment_display2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\4_digit_7_segment_display2.png
+   Message: Successfully converted 4_digit_7_segment_display2.png
+
+✓ 74HC595_1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\74HC595_1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\74HC595_1.png
+   Message: Successfully converted 74HC595_1.png
+
+✓ 7_segment1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\7_segment1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\7_segment1.png
+   Message: Successfully converted 7_segment1.png
+
+✓ 7_segment2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\7_segment2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\7_segment2.png
+   Message: Successfully converted 7_segment2.png
+
+✓ audio_module.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\audio_module.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\audio_module.png
+   Message: Successfully converted audio_module.png
+
+✓ back_lcd1602.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\back_lcd1602.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\back_lcd1602.png
+   Message: Successfully converted back_lcd1602.png
+
+✓ Dot_Matrix3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\Dot_Matrix3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Dot_Matrix3.png
+   Message: Successfully converted Dot_Matrix3.png
+
+✓ Dot_Matrix4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\Dot_Matrix4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\Dot_Matrix4.png
+   Message: Successfully converted Dot_Matrix4.png
+
+✓ i2c_address.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\i2c_address.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\i2c_address.png
+   Message: Successfully converted i2c_address.png
+
+✓ i2c_lcd1602.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\i2c_lcd1602.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\i2c_lcd1602.png
+   Message: Successfully converted i2c_lcd1602.png
+
+✓ keypad.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\keypad.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\keypad.png
+   Message: Successfully converted keypad.png
+
+✓ led_bar_graph.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\led_bar_graph.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\led_bar_graph.png
+   Message: Successfully converted led_bar_graph.png
+
+✓ led_bar_pin.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\led_bar_pin.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\led_bar_pin.png
+   Message: Successfully converted led_bar_pin.png
+
+✓ led_bar_sche1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\led_bar_sche1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\led_bar_sche1.png
+   Message: Successfully converted led_bar_sche1.png
+
+✓ lipo_charger_module2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\lipo_charger_module2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\lipo_charger_module2.png
+   Message: Successfully converted lipo_charger_module2.png
+
+✓ mfrc522.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\mfrc522.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\mfrc522.png
+   Message: Successfully converted mfrc522.png
+
+✓ micro_switch1.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\micro_switch1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\micro_switch1.png
+   Message: Successfully converted micro_switch1.png
+
+✓ motor2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\motor2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\motor2.png
+   Message: Successfully converted motor2.png
+
+✓ mpr121_1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\mpr121_1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\mpr121_1.png
+   Message: Successfully converted mpr121_1.png
+
+✓ mpu6050-1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\mpu6050-1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\mpu6050-1.png
+   Message: Successfully converted mpu6050-1.png
+
+✓ mpu6050-2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\mpu6050-2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\mpu6050-2.png
+   Message: Successfully converted mpu6050-2.png
+
+✓ mpu6050-3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\mpu6050-3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\mpu6050-3.png
+   Message: Successfully converted mpu6050-3.png
+
+✓ mpu6050-4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\mpu6050-4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\mpu6050-4.png
+   Message: Successfully converted mpu6050-4.png
+
+✓ PIR2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\PIR2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\PIR2.png
+   Message: Successfully converted PIR2.png
+
+✓ PIR3.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\PIR3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\PIR3.png
+   Message: Successfully converted PIR3.png
+
+✓ reed2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\reed2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\reed2.png
+   Message: Successfully converted reed2.png
+
+✓ reed3.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\reed3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\reed3.png
+   Message: Successfully converted reed3.png
+
+✓ relay1.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\relay1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\relay1.png
+   Message: Successfully converted relay1.png
+
+✓ relay2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\relay2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\relay2.png
+   Message: Successfully converted relay2.png
+
+✓ rgb_pin.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\rgb_pin.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\rgb_pin.png
+   Message: Successfully converted rgb_pin.png
+
+✓ servo1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\servo1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\servo1.png
+   Message: Successfully converted servo1.png
+
+✓ servo2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\servo2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\servo2.png
+   Message: Successfully converted servo2.png
+
+✓ servo3.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\servo3.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\servo3.png
+   Message: Successfully converted servo3.png
+
+✓ slide_switch1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\slide_switch1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\slide_switch1.png
+   Message: Successfully converted slide_switch1.png
+
+✓ symbol-zener-diode.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\symbol-zener-diode.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\symbol-zener-diode.png
+   Message: Successfully converted symbol-zener-diode.png
+
+✓ ta6586_1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\ta6586_1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\ta6586_1.png
+   Message: Successfully converted ta6586_1.png
+
+✓ ta6586_2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\ta6586_2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\ta6586_2.png
+   Message: Successfully converted ta6586_2.png
+
+✓ ultrasonic1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\ultrasonic1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\ultrasonic1.png
+   Message: Successfully converted ultrasonic1.png
+
+✓ ultrasonic2.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\ultrasonic2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\ultrasonic2.png
+   Message: Successfully converted ultrasonic2.png
+
+✓ unor4.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\unor4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\unor4.png
+   Message: Successfully converted unor4.png
+
+✓ water_level_module1.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\water_level_module1.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\water_level_module1.png
+   Message: Successfully converted water_level_module1.png
+
+✓ board_ins2.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\preparation\img\C_preparation\board_ins2.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\board_ins2.png
+   Message: Successfully converted board_ins2.png
+
+✓ upload_code4.png (WebP)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\preparation\img\C_preparation\upload_code4.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\upload_code4.png
+   Message: Successfully converted upload_code4.png
+
+✓ picow_pin.png (JPEG)
+   Original: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\preparation\img\GPIO\picow_pin.png
+   Converted: i:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\converted_pngs\picow_pin.png
+   Message: Successfully converted picow_pin.png
+
+REPLACEMENT DETAILS:
+------------------------------
+✓ Successfully replaced 1.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\1.detail\1.3.png.backup
+
+✓ Successfully replaced 1.6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\1.detail\1.6.png.backup
+
+✓ Successfully replaced 1.7.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\1.detail\1.7.png.backup
+
+✓ Successfully replaced 2.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\1.detail\2.1.png.backup
+
+✓ Successfully replaced 4.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\1.detail\4.2.png.backup
+
+✓ Successfully replaced 5.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\1.detail\5.2.png.backup
+
+✓ Successfully replaced 1.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.1.png.backup
+
+✓ Successfully replaced 1.10.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.10.png.backup
+
+✓ Successfully replaced 1.11.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.11.png.backup
+
+✓ Successfully replaced 1.12.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.12.png.backup
+
+✓ Successfully replaced 1.13.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.13.png.backup
+
+✓ Successfully replaced 1.14.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.14.png.backup
+
+✓ Successfully replaced 1.15.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.15.png.backup
+
+✓ Successfully replaced 1.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.2.png.backup
+
+✓ Successfully replaced 1.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.3.png.backup
+
+✓ Successfully replaced 1.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.4.png.backup
+
+✓ Successfully replaced 1.5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.5.png.backup
+
+✓ Successfully replaced 1.6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.6.png.backup
+
+✓ Successfully replaced 1.7.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.7.png.backup
+
+✓ Successfully replaced 1.8.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.8.png.backup
+
+✓ Successfully replaced 1.9.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\1.9.png.backup
+
+✓ Successfully replaced 2.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.1.png.backup
+
+✓ Successfully replaced 2.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.2.png.backup
+
+✓ Successfully replaced 2.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.3.png.backup
+
+✓ Successfully replaced 2.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.4.png.backup
+
+✓ Successfully replaced 2.5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.5.png.backup
+
+✓ Successfully replaced 2.6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.6.png.backup
+
+✓ Successfully replaced 2.7.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\2.7.png.backup
+
+✓ Successfully replaced 3.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\3.1.png.backup
+
+✓ Successfully replaced 3.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\3.2.png.backup
+
+✓ Successfully replaced 3.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\3.3.png.backup
+
+✓ Successfully replaced 4.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\4.1.png.backup
+
+✓ Successfully replaced 4.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\4.2.png.backup
+
+✓ Successfully replaced 4.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\4.3.png.backup
+
+✓ Successfully replaced 4.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\4.4.png.backup
+
+✓ Successfully replaced 5.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\5.1.png.backup
+
+✓ Successfully replaced 5.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\5.3.png.backup
+
+✓ Successfully replaced 5.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\5.4.png.backup
+
+✓ Successfully replaced 5.5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\5.5.png.backup
+
+✓ Successfully replaced 6.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.1.png.backup
+
+✓ Successfully replaced 6.10.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.10.png.backup
+
+✓ Successfully replaced 6.11.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.11.png.backup
+
+✓ Successfully replaced 6.12.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.12.png.backup
+
+✓ Successfully replaced 6.13.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.13.png.backup
+
+✓ Successfully replaced 6.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.3.png.backup
+
+✓ Successfully replaced 6.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.4.png.backup
+
+✓ Successfully replaced 6.5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.5.png.backup
+
+✓ Successfully replaced 6.6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.6.png.backup
+
+✓ Successfully replaced 6.7.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.7.png.backup
+
+✓ Successfully replaced 6.8.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.8.png.backup
+
+✓ Successfully replaced 6.9.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\2.sch\6.9.png.backup
+
+✓ Successfully replaced 6.5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\3.connect\6.5.png.backup
+
+✓ Successfully replaced 6.9.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\3.connect\6.9.png.backup
+
+✓ Successfully replaced 1.10.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.10.png.backup
+
+✓ Successfully replaced 1.12.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.12.png.backup
+
+✓ Successfully replaced 1.13.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.13.png.backup
+
+✓ Successfully replaced 1.14.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.14.png.backup
+
+✓ Successfully replaced 1.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.2.png.backup
+
+✓ Successfully replaced 1.6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.6.png.backup
+
+✓ Successfully replaced 1.7.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.7.png.backup
+
+✓ Successfully replaced 1.8.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.8.png.backup
+
+✓ Successfully replaced 1.9.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\1.9.png.backup
+
+✓ Successfully replaced 2.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\2.1.png.backup
+
+✓ Successfully replaced 2.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\2.2.png.backup
+
+✓ Successfully replaced 2.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\2.3.png.backup
+
+✓ Successfully replaced 3.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\3.1.png.backup
+
+✓ Successfully replaced 3.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\3.2.png.backup
+
+✓ Successfully replaced 3.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\3.3.png.backup
+
+✓ Successfully replaced 5.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\5.1.png.backup
+
+✓ Successfully replaced 5.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\5.2.png.backup
+
+✓ Successfully replaced 5.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\5.3.png.backup
+
+✓ Successfully replaced 5.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\5.4.png.backup
+
+✓ Successfully replaced 5.5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\5.5.png.backup
+
+✓ Successfully replaced 6.11.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\6.11.png.backup
+
+✓ Successfully replaced 6.12.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\5.phenomenon\6.12.png.backup
+
+✓ Successfully replaced pico_adc.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\6.other\pico_adc.png.backup
+
+✓ Successfully replaced PIR.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\6.other\PIR.png.backup
+
+✓ Successfully replaced PIR2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\1.C_Tutorial\img\6.other\PIR2.png.backup
+
+✓ Successfully replaced 1.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\1.detail\1.3.png.backup
+
+✓ Successfully replaced 1.6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\1.detail\1.6.png.backup
+
+✓ Successfully replaced 1.7.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\1.detail\1.7.png.backup
+
+✓ Successfully replaced 2.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\1.detail\2.1.png.backup
+
+✓ Successfully replaced 4.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\1.detail\4.2.png.backup
+
+✓ Successfully replaced 5.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\1.detail\5.2.png.backup
+
+✓ Successfully replaced 1.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.1.png.backup
+
+✓ Successfully replaced 1.10.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.10.png.backup
+
+✓ Successfully replaced 1.11.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.11.png.backup
+
+✓ Successfully replaced 1.12.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.12.png.backup
+
+✓ Successfully replaced 1.13.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.13.png.backup
+
+✓ Successfully replaced 1.14.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.14.png.backup
+
+✓ Successfully replaced 1.15.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.15.png.backup
+
+✓ Successfully replaced 1.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.2.png.backup
+
+✓ Successfully replaced 1.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.3.png.backup
+
+✓ Successfully replaced 1.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.4.png.backup
+
+✓ Successfully replaced 1.5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.5.png.backup
+
+✓ Successfully replaced 1.6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.6.png.backup
+
+✓ Successfully replaced 1.7.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.7.png.backup
+
+✓ Successfully replaced 1.8.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.8.png.backup
+
+✓ Successfully replaced 1.9.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\1.9.png.backup
+
+✓ Successfully replaced 2.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.1.png.backup
+
+✓ Successfully replaced 2.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.2.png.backup
+
+✓ Successfully replaced 2.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.3.png.backup
+
+✓ Successfully replaced 2.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.4.png.backup
+
+✓ Successfully replaced 2.5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.5.png.backup
+
+✓ Successfully replaced 2.6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.6.png.backup
+
+✓ Successfully replaced 2.7.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\2.7.png.backup
+
+✓ Successfully replaced 3.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\3.1.png.backup
+
+✓ Successfully replaced 3.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\3.2.png.backup
+
+✓ Successfully replaced 3.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\3.3.png.backup
+
+✓ Successfully replaced 4.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\4.1.png.backup
+
+✓ Successfully replaced 4.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\4.2.png.backup
+
+✓ Successfully replaced 4.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\4.3.png.backup
+
+✓ Successfully replaced 4.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\4.4.png.backup
+
+✓ Successfully replaced 5.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\5.1.png.backup
+
+✓ Successfully replaced 5.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\5.3.png.backup
+
+✓ Successfully replaced 5.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\5.4.png.backup
+
+✓ Successfully replaced 5.5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\5.5.png.backup
+
+✓ Successfully replaced 6.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.1.png.backup
+
+✓ Successfully replaced 6.10.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.10.png.backup
+
+✓ Successfully replaced 6.11.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.11.png.backup
+
+✓ Successfully replaced 6.12.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.12.png.backup
+
+✓ Successfully replaced 6.13.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.13.png.backup
+
+✓ Successfully replaced 6.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.3.png.backup
+
+✓ Successfully replaced 6.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.4.png.backup
+
+✓ Successfully replaced 6.5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.5.png.backup
+
+✓ Successfully replaced 6.6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.6.png.backup
+
+✓ Successfully replaced 6.7.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.7.png.backup
+
+✓ Successfully replaced 6.8.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.8.png.backup
+
+✓ Successfully replaced 6.9.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\2.sch\6.9.png.backup
+
+✓ Successfully replaced 1.10.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.10.png.backup
+
+✓ Successfully replaced 1.12.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.12.png.backup
+
+✓ Successfully replaced 1.13.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.13.png.backup
+
+✓ Successfully replaced 1.14.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.14.png.backup
+
+✓ Successfully replaced 1.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.2.png.backup
+
+✓ Successfully replaced 1.6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.6.png.backup
+
+✓ Successfully replaced 1.7.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.7.png.backup
+
+✓ Successfully replaced 1.8.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.8.png.backup
+
+✓ Successfully replaced 1.9.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\1.9.png.backup
+
+✓ Successfully replaced 2.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\2.1.png.backup
+
+✓ Successfully replaced 2.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\2.2.png.backup
+
+✓ Successfully replaced 2.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\2.3.png.backup
+
+✓ Successfully replaced 3.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\3.1.png.backup
+
+✓ Successfully replaced 3.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\3.2.png.backup
+
+✓ Successfully replaced 3.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\3.3.png.backup
+
+✓ Successfully replaced 5.1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\5.1.png.backup
+
+✓ Successfully replaced 5.2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\5.2.png.backup
+
+✓ Successfully replaced 5.3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\5.3.png.backup
+
+✓ Successfully replaced 5.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\5.4.png.backup
+
+✓ Successfully replaced 5.5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\5.5.png.backup
+
+✓ Successfully replaced 6.11.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\6.11.png.backup
+
+✓ Successfully replaced 6.12.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\6.12.png.backup
+
+✓ Successfully replaced 7.4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\5.phenomenon\7.4.png.backup
+
+✓ Successfully replaced pico_adc.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\6.other\pico_adc.png.backup
+
+✓ Successfully replaced PIR.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\6.other\PIR.png.backup
+
+✓ Successfully replaced PIR2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\6.other\PIR2.png.backup
+
+✓ Successfully replaced OWM2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\2.Python_Tutorial\img\iot\OWM2.png.backup
+
+✓ Successfully replaced blink_code.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\blink_code.png.backup
+
+✓ Successfully replaced DoorBell_Code.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\DoorBell_Code.png.backup
+
+✓ Successfully replaced DoorBell_micro_pic.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\DoorBell_micro_pic.png.backup
+
+✓ Successfully replaced DoorBell_Wiring.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\DoorBell_Wiring.png.backup
+
+✓ Successfully replaced Drummer_Code.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Drummer_Code.png.backup
+
+✓ Successfully replaced Drummer_Wiring.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Drummer_Wiring.png.backup
+
+✓ Successfully replaced Fan_Code.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Fan_Code.png.backup
+
+✓ Successfully replaced Fan_Code3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Fan_Code3.png.backup
+
+✓ Successfully replaced Fan_Code4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Fan_Code4.png.backup
+
+✓ Successfully replaced Fan_Code5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Fan_Code5.png.backup
+
+✓ Successfully replaced Fan_Wiring.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Fan_Wiring.png.backup
+
+✓ Successfully replaced Light_Intensity_Code1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Light_Intensity_Code1.png.backup
+
+✓ Successfully replaced Light_Intensity_Code2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Light_Intensity_Code2.png.backup
+
+✓ Successfully replaced Pet_Code.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Pet_Code.png.backup
+
+✓ Successfully replaced Pet_Code2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Pet_Code2.png.backup
+
+✓ Successfully replaced Pet_Code3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Pet_Code3.png.backup
+
+✓ Successfully replaced Pet_Code4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Pet_Code4.png.backup
+
+✓ Successfully replaced Pet_Wiring.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Pet_Wiring.png.backup
+
+✓ Successfully replaced Potentiometer_Servo_Code3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Potentiometer_Servo_Code3.png.backup
+
+✓ Successfully replaced Potentiometer_Servo_Wiring.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Potentiometer_Servo_Wiring.png.backup
+
+✓ Successfully replaced Quick_Guide_pipermake10.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake10.png.backup
+
+✓ Successfully replaced Quick_Guide_pipermake11.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake11.png.backup
+
+✓ Successfully replaced Quick_Guide_pipermake3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake3.png.backup
+
+✓ Successfully replaced Quick_Guide_pipermake4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake4.png.backup
+
+✓ Successfully replaced Quick_Guide_pipermake5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake5.png.backup
+
+✓ Successfully replaced Quick_Guide_pipermake6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake6.png.backup
+
+✓ Successfully replaced Quick_Guide_pipermake8.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake8.png.backup
+
+✓ Successfully replaced Quick_Guide_pipermake9.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Quick_Guide_pipermake9.png.backup
+
+✓ Successfully replaced Reaction_Game_Code2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reaction_Game_Code2.png.backup
+
+✓ Successfully replaced Reaction_Game_Code3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reaction_Game_Code3.png.backup
+
+✓ Successfully replaced Reaction_Game_Code4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reaction_Game_Code4.png.backup
+
+✓ Successfully replaced Reaction_Game_Code5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reaction_Game_Code5.png.backup
+
+✓ Successfully replaced Reaction_Game_Code6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reaction_Game_Code6.png.backup
+
+✓ Successfully replaced Reaction_Game_Wiring.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reaction_Game_Wiring.png.backup
+
+✓ Successfully replaced Reversing_Radar_Code.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reversing_Radar_Code.png.backup
+
+✓ Successfully replaced Reversing_Radar_Code2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reversing_Radar_Code2.png.backup
+
+✓ Successfully replaced Reversing_Radar_Code4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reversing_Radar_Code4.png.backup
+
+✓ Successfully replaced Reversing_Radar_Code6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Reversing_Radar_Code6.png.backup
+
+✓ Successfully replaced RGB_Mixing_Code.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\RGB_Mixing_Code.png.backup
+
+✓ Successfully replaced RGB_Mixing_rgbled.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\RGB_Mixing_rgbled.png.backup
+
+✓ Successfully replaced RGB_Mixing_Wiring.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\RGB_Mixing_Wiring.png.backup
+
+✓ Successfully replaced Save_import_pipermake1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Save_import_pipermake1.png.backup
+
+✓ Successfully replaced Save_import_pipermake2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Save_import_pipermake2.png.backup
+
+✓ Successfully replaced Save_import_pipermake5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Save_import_pipermake5.png.backup
+
+✓ Successfully replaced setup_pipermake2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\setup_pipermake2.png.backup
+
+✓ Successfully replaced setup_pipermake3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\setup_pipermake3.png.backup
+
+✓ Successfully replaced setup_pipermake7.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\setup_pipermake7.png.backup
+
+✓ Successfully replaced Water_Tank_Code.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Water_Tank_Code.png.backup
+
+✓ Successfully replaced Water_Tank_Code2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Water_Tank_Code2.png.backup
+
+✓ Successfully replaced Water_Tank_Code3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Water_Tank_Code3.png.backup
+
+✓ Successfully replaced Water_Tank_Code4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Water_Tank_Code4.png.backup
+
+✓ Successfully replaced Water_Tank_Wiring.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Water_Tank_Wiring.png.backup
+
+✓ Successfully replaced Water_Tank_Wiring2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\Water_Tank_Wiring2.png.backup
+
+✓ Successfully replaced wiring_led.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\wiring_led.png.backup
+
+✓ Successfully replaced WS2812_Strip_Code.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Code.png.backup
+
+✓ Successfully replaced WS2812_Strip_Code2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Code2.png.backup
+
+✓ Successfully replaced WS2812_Strip_Code3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Code3.png.backup
+
+✓ Successfully replaced WS2812_Strip_Code4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Code4.png.backup
+
+✓ Successfully replaced WS2812_Strip_Code5.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Code5.png.backup
+
+✓ Successfully replaced WS2812_Strip_Code6.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Code6.png.backup
+
+✓ Successfully replaced WS2812_Strip_Wiring.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\3.PiperMake_Tutorial\img\WS2812_Strip_Wiring.png.backup
+
+✓ Successfully replaced 220ohm.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\220ohm.png.backup
+
+✓ Successfully replaced 4_digit_7_segment_display1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\4_digit_7_segment_display1.png.backup
+
+✓ Successfully replaced 4_digit_7_segment_display2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\4_digit_7_segment_display2.png.backup
+
+✓ Successfully replaced 74HC595_1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\74HC595_1.png.backup
+
+✓ Successfully replaced 7_segment1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\7_segment1.png.backup
+
+✓ Successfully replaced 7_segment2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\7_segment2.png.backup
+
+✓ Successfully replaced audio_module.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\audio_module.png.backup
+
+✓ Successfully replaced back_lcd1602.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\back_lcd1602.png.backup
+
+✓ Successfully replaced Dot_Matrix3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\Dot_Matrix3.png.backup
+
+✓ Successfully replaced Dot_Matrix4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\Dot_Matrix4.png.backup
+
+✓ Successfully replaced i2c_address.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\i2c_address.png.backup
+
+✓ Successfully replaced i2c_lcd1602.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\i2c_lcd1602.png.backup
+
+✓ Successfully replaced keypad.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\keypad.png.backup
+
+✓ Successfully replaced led_bar_graph.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\led_bar_graph.png.backup
+
+✓ Successfully replaced led_bar_pin.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\led_bar_pin.png.backup
+
+✓ Successfully replaced led_bar_sche1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\led_bar_sche1.png.backup
+
+✓ Successfully replaced lipo_charger_module2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\lipo_charger_module2.png.backup
+
+✓ Successfully replaced mfrc522.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\mfrc522.png.backup
+
+✓ Successfully replaced micro_switch1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\micro_switch1.png.backup
+
+✓ Successfully replaced motor2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\motor2.png.backup
+
+✓ Successfully replaced mpr121_1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\mpr121_1.png.backup
+
+✓ Successfully replaced mpu6050-1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\mpu6050-1.png.backup
+
+✓ Successfully replaced mpu6050-2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\mpu6050-2.png.backup
+
+✓ Successfully replaced mpu6050-3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\mpu6050-3.png.backup
+
+✓ Successfully replaced mpu6050-4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\mpu6050-4.png.backup
+
+✓ Successfully replaced PIR2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\PIR2.png.backup
+
+✓ Successfully replaced PIR3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\PIR3.png.backup
+
+✓ Successfully replaced reed2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\reed2.png.backup
+
+✓ Successfully replaced reed3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\reed3.png.backup
+
+✓ Successfully replaced relay1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\relay1.png.backup
+
+✓ Successfully replaced relay2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\relay2.png.backup
+
+✓ Successfully replaced rgb_pin.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\rgb_pin.png.backup
+
+✓ Successfully replaced servo1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\servo1.png.backup
+
+✓ Successfully replaced servo2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\servo2.png.backup
+
+✓ Successfully replaced servo3.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\servo3.png.backup
+
+✓ Successfully replaced slide_switch1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\slide_switch1.png.backup
+
+✓ Successfully replaced symbol-zener-diode.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\symbol-zener-diode.png.backup
+
+✓ Successfully replaced ta6586_1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\ta6586_1.png.backup
+
+✓ Successfully replaced ta6586_2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\ta6586_2.png.backup
+
+✓ Successfully replaced ultrasonic1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\ultrasonic1.png.backup
+
+✓ Successfully replaced ultrasonic2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\ultrasonic2.png.backup
+
+✓ Successfully replaced unor4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\unor4.png.backup
+
+✓ Successfully replaced water_level_module1.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\components_Kit\img\water_level_module1.png.backup
+
+✓ Successfully replaced board_ins2.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\preparation\img\C_preparation\board_ins2.png.backup
+
+✓ Successfully replaced upload_code4.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\preparation\img\C_preparation\upload_code4.png.backup
+
+✓ Successfully replaced picow_pin.png
+   Backup created: I:\Github\Ultimate-_tarter_Kit_for_Pico_W_PDF\Ultimate-Starter-Kit-for-Pico-W\docs\source\preparation\img\GPIO\picow_pin.png.backup
+
