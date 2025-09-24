@@ -7,5 +7,3 @@ myst-parser
 sphinxcontrib-video
 sphinx_copybutton
 # PDF generation dependencies
-sphinx-latex
-latexmk
