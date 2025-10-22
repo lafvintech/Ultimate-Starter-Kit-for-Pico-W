@@ -1,42 +1,48 @@
-.. _per_lucky_cat:
+.. _per_pets_welcome:
 
-2.9 Pets Welcome
-==========================
+2.9 Animal Motion Detection System
+==================================
 
-In this project, we use pir and servo to make a lucky pet. The PIR Module is used to detect the visitors and servo is used to imitate the beckoning motion of the lucky cat.
+This project implements an automated pet greeting system using passive infrared motion detection to trigger welcoming audio signals when animals approach the sensor area.
 
-Component List
-^^^^^^^^^^^^^^^^^^^^^^^^
+PIR (Passive Infrared) sensors detect thermal radiation emitted by moving warm-blooded objects. The device features three connection terminals: VCC (power supply), GND (ground reference), and OUT (digital output signal).
+
+.. image:: img/Pets_Welcome_pir_pic.png
+
+Required Components
+^^^^^^^^^^^^^^^^^^^
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
-- Servo x1
-- PIR Motion Sensor Module x1
+- PIR Sensor x1
+- Active Buzzer x1
+- Transistor S8050 x1
+- Resistor 1KΩ x1
+- Resistor 10KΩ x1
+- Capacitor 104 x1
 - Jumper Wire Several
+  
 
-Wiring
-^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: img/Pet_Wiring.png
+Circuit Configuration
+^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: img/Pets_Welcome_Wiring.png
 
-* The orange wire (signal) of the servo is connected to GP15, the red wire (power) is connected to VBUS, and the brown wire (ground) is connected to GND. 
-* The middle pin of the PIR module is connected to the GP3.
+* PIR motion sensor interfaces with digital input pin GP14.
+* Active buzzer connects to digital output pin GP13.
 
-Code
-^^^^^^^^^^^^^^^^^^^^^^^^
-
+Programming Implementation
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note::
 
-    * You can refer to the image below to write code by dragging and dropping. 
-    * Import ``2.9_Pets_Welcome.png`` from the path of ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For detailed tutorials, please refer to :ref:`import_code_piper`.
-
-.. image:: img/Pet_Code.png
+    * Follow the visual programming guide below using drag-and-drop techniques. 
+    * Load ``2.9_Pets_Welcome.png`` from the directory ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For comprehensive guidance, see :ref:`import_code_piper`.
 
 
+.. image:: img/Pets_Welcome_Code.png
 
-* After connecting Pico W, click the **Start** button and the code starts to run.
-* When the PIR module detects a customer arrival, the servo oscillates back and forth five times and then stops.
+Upon Pico W connection, press the **Start** button to begin program execution. Move your hand within the PIR sensor's detection range to activate the welcoming audio response.
 
 
 How it Works?

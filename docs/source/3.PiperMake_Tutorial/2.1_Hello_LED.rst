@@ -1,15 +1,15 @@
 
 
 
-2.1 Hello,LED!
-===============
+2.1 LED Blinking Fundamentals
+==============================
 
-For this project, we intend to make the extended LED light blink. To use extended electronic components, a solderless breadboard will be the most powerful partner for novice users.
+In this tutorial, we'll create a flashing LED circuit using external components. For beginners working with electronic modules, a prototyping breadboard serves as an essential tool for circuit construction.
 
-The breadboard is a rectangular plastic plate with a bunch of small holes in it. These holes allow us to easily insert electronic components and build electronic circuits. The breadboard does not permanently fix the electronic components, which makes it easy for us to repair the circuit and start over when we make a mistake.
+A breadboard consists of a plastic base featuring numerous connection points arranged in a grid pattern. These connection holes enable quick insertion of electronic parts and facilitate circuit assembly. Since components aren't permanently soldered, breadboards offer flexibility for circuit modifications and troubleshooting when errors occur.
 
 
-Component List
+Required Components
 ^^^^^^^^^^^^^^^^^^^
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
@@ -18,33 +18,33 @@ Component List
 - Resistor 220Ω x1
 - Jumper Wire Several
 
-Wiring
-^^^^^^^^^^^^^
+Circuit Assembly
+^^^^^^^^^^^^^^^^^
 .. image:: img/wiring_led.png
 
-* The color ring of the 220 ohm resistor is red, red, black, black and brown.
+* The 220-ohm resistor displays color bands: red, red, black, black, and brown.
 
-* The longer lead of the LED is known as the anode (+), the shorter lead is the cathode (-). 
+* LED polarity: the extended leg represents the positive terminal (anode), while the shorter leg is the negative terminal (cathode). 
 
 
 
-Code
-^^^^^^^^^^^^^
+Programming
+^^^^^^^^^^^
 .. note::
 
-    * You can refer to the image below to write code by dragging and dropping. 
-    * Import ``2.1_Hello_Led.png`` from the path of ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For detailed tutorials, please refer to :ref:`import_code_piper`.
+    * Reference the visual guide below for drag-and-drop programming. 
+    * Load ``2.1_Hello_Led.png`` from the directory ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For comprehensive instructions, see :ref:`import_code_piper`.
 
 
 .. image:: img/blink_code.png
 
-After connecting Pico W, click the **Start** button and you will see the LED blinking. For more details, you can refer to :ref:`quick_guide_piper`.
+Once the Pico W is connected, press the **Start** button to observe the LED flashing pattern. For additional guidance, consult :ref:`quick_guide_piper`.
 
-How it Works?
-^^^^^^^^^^^^^
-This is the body of the loop: turn the pin15 on to light up the LED, wait one second, then turn the pin15 off to make the LED go off. Wait 1 second and then re-run the previous cycle, so you can see the LED has been in the state of alternating between light and off.
+Operation Principles
+^^^^^^^^^^^^^^^^^^^^
+The program loop operates as follows: activate pin15 to illuminate the LED, pause for one second, deactivate pin15 to extinguish the LED. After another one-second delay, the sequence repeats, creating a continuous on-off pattern.
 
-* [start]: This block is the basic framework of the program and represents the beginning of the program.
-* [repeat forever do() wait()seconds]: Means that the blocks in it will be executed repeatedly, and the execution time interval is defined by yourself.
-* [turn pin () ON/OFF]: Indicates that a certain pin is placed in a high level (ON) or a low level (OFF).
-* [wait () seconds]: Set the execution interval between blocks.
+* [start]: This component establishes the program foundation and marks the execution starting point.
+* [repeat forever do() wait()seconds]: Creates an infinite loop where enclosed blocks execute continuously with user-defined timing intervals.
+* [turn pin () ON/OFF]: Controls pin state by setting it to high voltage (ON) or low voltage (OFF).
+* [wait () seconds]: Establishes timing delays between block executions.

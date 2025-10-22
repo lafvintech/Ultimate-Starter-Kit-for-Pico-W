@@ -1,39 +1,46 @@
-.. _per_swing_servo:
+.. _per_potentiometer_control_servo:
 
+2.7 Variable Resistor Servo Control System
+==========================================
 
-2.7 Potentiometer Control Servo
-===============================================
+This project demonstrates servo motor position control using a potentiometer as an analog input device to precisely adjust the motor's rotational angle.
 
-In this project, we use a servo and a potentiometer to simulate a steering wheel. Rotating the potentiometer will drive the servo to turn together.
+Servo motors are precision actuators capable of rotating to specific angular positions. They feature three connection wires: red (power supply), black (ground reference), and yellow (control signal).
 
-Component List
+A potentiometer functions as an adjustable resistor, enabling resistance variation through rotational knob manipulation.
+
+.. image:: img/Potentiometer_Control_Servo_servo_pic.png
+
+Required Components
 ^^^^^^^^^^^^^^^^^^^
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
-- Potentiometer x1
-- Servo x1
+- Servo Motor x1
+- Potentiometer 10KΩ x1
 - Jumper Wire Several
+  
 
-Wiring
-^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: img/Potentiometer_Servo_Wiring.png
+Circuit Configuration
+^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: img/Potentiometer_Control_Servo_Wiring.png
 
-* The orange wire (signal) of the servo is connected to GP15, the red wire (power) is connected to VBUS, and the brown wire (ground) is connected to GND. 
-* Potentiometer is a resistive element with 3 terminals, the 2 side pins are connected to 5V and GND, and the middle pin is connected to GP26(A0).
+* Servo motor control signal interfaces with GPIO pin GP13.
+* Potentiometer analog output connects to GPIO pin GP26.
 
-Code
-^^^^^^^^^^^^^^^^^^^^^^^^
+Programming Implementation
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. note::
 
-    * You can refer to the image below to write code by dragging and dropping. 
-    * Import ``2.7_Potentiometer_Control_Servo.png`` from the path of ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For detailed tutorials, please refer to :ref:`import_code_piper`.
+    * Follow the visual programming guide below using drag-and-drop techniques. 
+    * Load ``2.7_Potentiometer_Control_Servo.png`` from the directory ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For comprehensive guidance, see :ref:`import_code_piper`.
 
-.. image:: img/Potentiometer_Servo_Code.png
 
-* After connecting Pico W, click the **Start** button and the code starts to run.
-* Turn the potentiometer and the servo will follow. To see it clearly, you can insert a rocker arm in the servo shaft.
+.. image:: img/Potentiometer_Control_Servo_Code.png
+
+Upon Pico W connection, press the **Start** button to begin program execution. Adjust the potentiometer knob to control servo motor angular positioning in real-time.
 
 How it Works?
 ^^^^^^^^^^^^^^^^^^^^^^^^

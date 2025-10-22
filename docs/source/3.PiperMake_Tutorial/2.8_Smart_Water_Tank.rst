@@ -1,44 +1,46 @@
 
-.. _per_water_tank:
+.. _per_smart_water_tank:
 
-2.8 Smart Water Tank
-=============================
+2.8 Intelligent Water Level Monitor
+===================================
 
-In this project, we use a water level sensor module and a servo to simulate a smart water tank. The water level sensor is fixed inside the tank to measure the water level, and when the water level is below a threshold, the valve controlled by the servo is allowed to open to let water in.
+This project creates an automated water level monitoring system utilizing ultrasonic distance measurement technology to detect liquid levels and provide visual feedback through an LED bar graph display.
 
-Component List
-^^^^^^^^^^^^^^^^^^^^^^^^
+Ultrasonic sensors employ high-frequency sound waves for non-contact distance measurement. The device features four connection terminals: VCC (power input), GND (ground reference), Trig (trigger signal), and Echo (response signal).
+
+.. image:: img/Smart_Water_Tank_ultrasonic_pic.png
+
+Required Components
+^^^^^^^^^^^^^^^^^^^
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
-- Servo x1
-- Water Level Sensor Module x1
+- Ultrasonic Sensor x1
+- LED Bar Graph x1
+- Resistor 220Ω x10
 - Jumper Wire Several
+  
 
-Wiring
-^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: img/Water_Tank_Wiring.png
+Circuit Assembly
+^^^^^^^^^^^^^^^^
 
-Pico W has three GPIO pins that can use analog input, GP26, GP27, GP28. That is, analog channels 0, 1, and 2.
-In addition, there is a fourth analog channel, which is connected to the built-in temperature sensor and will not be introduced here.
+.. image:: img/Smart_Water_Tank_Wiring.png
 
-.. image:: img/Water_Tank_Wiring2.png
+* Ultrasonic sensor interfaces with GPIO pins GP14 (trigger output) and GP15 (echo input).
+* LED bar graph elements connect to digital output pins GP13 through GP22.
 
-* S of water level sensor is connected to GP26(A0), + to VBUS, - pin to GND.
-* The orange wire (signal) of the servo is connected to GP15, the red wire (power) is connected to VBUS, and the brown wire (ground) is connected to GND. 
+Programming Implementation
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Code
-^^^^^^^^^^^^^^^^^^^^^^^^
 .. note::
 
-    * You can refer to the image below to write code by dragging and dropping. 
-    * Import ``2.8_Smart_Water_Tank.png`` from the path of ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For detailed tutorials, please refer to :ref:`import_code_piper`.
-
-.. image:: img/Water_Tank_Code.png
+    * Utilize the visual programming interface shown below through drag-and-drop methodology. 
+    * Import ``2.8_Smart_Water_Tank.png`` from the location ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For complete instructions, reference :ref:`import_code_piper`.
 
 
+.. image:: img/Smart_Water_Tank_Code.png
 
-After connecting Pico W, click the **Start** button and the code starts to run. When the water level is lower than 1/3 of the water level sensor, the servo rotates to 180 degrees to simulate the inlet opening; when the water level is higher than 1/3 of the water level sensor, the servo rotates to 0 degrees to imitate the inlet closing.
+Following Pico W connection, activate the **Start** button to initiate program execution. Position your hand above the ultrasonic sensor to observe corresponding variations in the LED bar graph illumination pattern.
 
 How it Works?
 ^^^^^^^^^^^^^^^^^^^^^^^^

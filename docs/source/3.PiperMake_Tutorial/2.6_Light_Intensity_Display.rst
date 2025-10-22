@@ -1,44 +1,48 @@
-.. _per_light_display:
+.. _per_light_intensity_display:
 
-2.6 Light Intensity Display
-=====================================
+2.6 Ambient Light Visualization System
+======================================
 
-In this project, we use a photoresistor and the LED Bar Graph to make a light intensity display, where the stronger the light is the more the number of the LED Bar Graph lights up.
+This project implements an ambient light monitoring system using a photoresistor sensor to measure illumination levels and visualize the data through an LED bar graph display.
 
-Component List
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+A photoresistor functions as a light-dependent resistor, exhibiting variable resistance characteristics based on ambient illumination. Under bright conditions, resistance decreases; in dim environments, resistance increases proportionally.
+
+The LED bar graph serves as a visual indicator comprising ten individual LEDs arranged linearly, providing analog-style representation of measured values.
+
+.. image:: img/Light_Intensity_Display_photoresistor_pic.png
+
+Required Components
+^^^^^^^^^^^^^^^^^^^
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
-- LED Bar Graph x1
 - Photoresistor x1
-- Resistor 220Ω x10
+- LED Bar Graph x1
 - Resistor 10KΩ x1
+- Resistor 220Ω x10
 - Jumper Wire Several
+  
 
-Wiring
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: img/Light_Intensity_Wiring.png
+Circuit Assembly
+^^^^^^^^^^^^^^^^
 
+.. image:: img/Light_Intensity_Display_Wiring.png
 
-* The LED Bar Graph consists of 10 LEDs, with the side with the label as the anode and the other side as the cathode.
-* The anode of the LED Bar Graph are connected to GP6~GP15. The cathode are connected to a 220 ohm resistor and then to GND.
-* Connect one end of the photoresistor to 3.3V and the other end to GP26 (A0). At the same time, GP26 needs to be connected to another 10K resistor to GND. This way, when the light is stronger, the resistance of the photoresistor decreases and the voltage of A0 increases.
+* The photoresistor interfaces with analog input pin GP26.
+* LED bar graph elements connect to digital output pins GP13 through GP22.
 
-
-Code
+Programming Implementation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note::
 
-    * You can refer to the image below to write code by dragging and dropping. 
-    * Import ``2.6_Light_Intensity_Display.png`` from the path of ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For detailed tutorials, please refer to :ref:`import_code_piper`.
+    * Utilize the visual programming interface shown below through drag-and-drop methodology. 
+    * Import ``2.6_Light_Intensity_Display.png`` from the location ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For complete instructions, reference :ref:`import_code_piper`.
 
-.. image:: img/Light_Intensity_Code1.png
 
-* After connecting Pico W, click the **Start** button and the code starts to run.
-* When the light is stronger, more LEDs are lit on the LED Bar Graph. 
-* If running the code does not light up properly, you can try flipping the led bar.
+.. image:: img/Light_Intensity_Display_Code.png
+
+Following Pico W connection, activate the **Start** button to initiate program execution. Obstruct the photoresistor with your hand to observe corresponding changes in the LED bar graph illumination pattern.
 
 
 

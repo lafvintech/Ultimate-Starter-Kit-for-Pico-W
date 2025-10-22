@@ -1,44 +1,47 @@
-.. _per_reversing_system:
+.. _reversing_radar:
 
-2.11 Reversing Radar
-==========================
+2.11 Proximity Detection Alert System
+=====================================
 
-For this project we used an ultrasonic module and an active buzzer to create a reversing alarm system. The ultrasonic module is used to detect the distance, and the buzzer emits different frequencies of alarm sounds depending on the distance.
+This project constructs a vehicle backup assistance system utilizing ultrasonic distance measurement and auditory warning signals to identify obstacles and deliver proximity-based feedback.
 
-Component List
-^^^^^^^^^^^^^^^^^^^^^^^^
+Ultrasonic distance sensors operate by transmitting high-frequency sound pulses and calculating the elapsed time for echo return from target objects. This temporal measurement enables precise distance computation through sound velocity calculations.
+
+Required Components
+^^^^^^^^^^^^^^^^^^^
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
-- Transistor S8050 x1
+- Ultrasonic Sensor HC-SR04 x1
 - Active Buzzer x1
-- ReUltrasonic Module x1
-- Resistor 1kΩ x1
+- Transistor S8050 x1
+- Resistor 1KΩ x1
+- Resistor 10KΩ x1
+- Capacitor 104 x1
 - Jumper Wire Several
+  
 
-Wiring
-^^^^^^^^^^^^^^^^^^^^^^^^
+Circuit Configuration
+^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: img/Reversing_Radar_Wiring.png
 
+* Ultrasonic sensor trigger pin interfaces with digital output GP14.
+* Echo reception pin connects to digital input GP15.
+* Audio alert buzzer links to digital output GP13.
 
+Programming Implementation
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* The Echo and Trig pins of the ultrasonic module are connected to GP15 at the same time, so that the ultrasonic module sends and receives signals from GP15.
-* The middle pin of the transistor connected to the buzzer is connected to GP14 through a 1kΩ resistor.
-
-Code
-^^^^^^^^^^^^^^^^^^^^^^^^
 .. note::
 
-    * You can refer to the image below to write code by dragging and dropping. 
-    * Import ``2.11_Reversing_Radar.png`` from the path of ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For detailed tutorials, please refer to :ref:`import_code_piper`.
+    * Follow the visual programming guide below using drag-and-drop techniques. 
+    * Load ``2.11_Reversing_Radar.png`` from the directory ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For comprehensive guidance, see :ref:`import_code_piper`.
 
 
 .. image:: img/Reversing_Radar_Code.png
 
-* After connecting Pico W, click the **Start** button and the code starts to run.
-* When the ultrasonic detection distance is less than 5cm, the buzzer emits a sharp sound (0.1s).
-* When the detection distance is between 5~10cm, the buzzer emits a slightly slow sound (0.5s).
-* When the detection distance is greater than 10cm, there is a sound prompt every 1 second.
+Upon Pico W connection, press the **Start** button to begin program execution. Position various objects at different distances from the ultrasonic sensor to observe buzzer tone variations corresponding to object proximity levels.
 
 
 How it Works?

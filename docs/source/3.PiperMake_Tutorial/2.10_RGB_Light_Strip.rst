@@ -1,43 +1,42 @@
-.. _per_flowing_leds:
+.. _rgb_light_strip:
 
+2.10 Programmable LED Strip Display
+===================================
 
-2.10 RGB Light Strip
-====================
+This project demonstrates the creation of dynamic color patterns using individually addressable WS2812 RGB LED strips for vibrant visual effects.
 
-The kit is equipped with a WS2812 RGB LED Strip, which can display colorful colors, and each LED can be independently controlled. 
+WS2812 LEDs are intelligent RGB lighting elements featuring integrated control circuits that enable individual pixel addressing. Each LED contains an embedded microcontroller allowing data reception and serial transmission to subsequent LEDs in the chain configuration.
 
-Here we try to use the tilt switch to control the flow direction of the LEDs on the WS2812 RGB LED Strip.
-
-Component List
-^^^^^^^^^^^^^^^^^^^^^^^^
+Required Components
+^^^^^^^^^^^^^^^^^^^
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
-- WS2812 RGB 8 LEDs Strip x1
-- Tilt Switch x1 x1
-- Resistor 10kΩ x1
+- WS2812 RGB LED Strip x1
 - Jumper Wire Several
+  
 
-Wiring
-^^^^^^^^^^^^^^^^^^^^^^^^
+Circuit Configuration
+^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: img/WS2812_Strip_Wiring.png
+.. image:: img/RGB_Light_Strip_Wiring.png
 
+* WS2812 RGB LED strip data input connects to digital pin GP15.
+* Power supply terminal links to VBUS rail.
+* Ground reference connects to GND terminal.
 
-Code
-^^^^^^^^^^^^^^^^^^^^^^^^
+Programming Implementation
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note::
 
-    * You can refer to the image below to write code by dragging and dropping. 
-    * Import ``2.10_RGB_Light_Strip.png`` from the path of ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For detailed tutorials, please refer to :ref:`import_code_piper`.
-
-.. image:: img/WS2812_Strip_Code.png
+    * Follow the visual programming guide below using drag-and-drop techniques. 
+    * Load ``2.10_RGB_Light_Strip.png`` from the directory ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For comprehensive guidance, see :ref:`import_code_piper`.
 
 
-After connecting Pico W, click the **Start** button and the code starts to run.
+.. image:: img/RGB_Light_Strip_Code.png
 
-When the tilt switch is placed vertically, it makes the LEDs on the WS2812 RGB LED Strip light up one by one in green, and when the tilt switch is placed horizontally, the LEDs light up one by one in the opposite direction in green.
+Upon Pico W connection, press the **Start** button to begin program execution. The addressable LED strip will generate a spectrum rainbow pattern with colors transitioning smoothly across the visible light range.
 
 
 

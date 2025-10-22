@@ -45,6 +45,6 @@ The underlying principle is to use CircuitPython with auxiliary libraries.
     2.10_RGB_Light_Strip
     2.11_Reversing_Radar
     2.12_Reaction_Game
-    2.13_Temperature_Control_Fan
+    
 
 

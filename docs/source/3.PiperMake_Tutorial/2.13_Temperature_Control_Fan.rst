@@ -1,42 +1,44 @@
-.. _per_smart_fan:
+.. _temperature_control_fan:
 
-2.13 Temperature Control Fan
-=============================
+2.13 Thermal Management Ventilation System
+==========================================
 
-Here we make a temperature controlled smart fan with thermistor, TA6586, motor, and power module. The fan rotates automatically when the set temperature is reached.
+This project implements an intelligent cooling system that dynamically regulates fan operation speed according to environmental temperature measurements obtained from precision thermal sensors.
 
-Component List
-^^^^^^^^^^^^^^^^^^^^^^^^
+The automated climate control mechanism employs digital temperature monitoring to continuously assess ambient thermal conditions and proportionally adjusts ventilation motor velocity to sustain optimal environmental comfort. Elevated temperature readings trigger corresponding increases in airflow circulation rates.
+
+Required Components
+^^^^^^^^^^^^^^^^^^^
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
-- TA6586 - Motor Driver Chip x1
+- Temperature Sensor DS18B20 x1
 - DC Motor x1
-- Li-po Charger Module x1
-- 18650 Battery x1
-- Battery Holder x1
-- Resistor 10kΩ x1
-- Photoresistor x1
+- Motor Driver L293D x1
+- Resistor 4.7KΩ x1
 - Jumper Wire Several
 
-Wiring
-^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: img/Fan_Wiring.png
+Circuit Configuration
+^^^^^^^^^^^^^^^^^^^^^
+.. image:: img/Temperature_Control_Fan_Wiring.png
 
+* DS18B20 thermal sensor data interface connects to digital pin GP15.
+* L293D motor controller manages DC motor operation through digital outputs GP13 and GP14.
+* A 4.7KΩ pull-up resistor is connected to the data line of the temperature sensor.
 
-Code
-^^^^^^^^^^^^^^^^^^^^^^^^
+Programming Implementation
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note::
 
-    * You can refer to the image below to write code by dragging and dropping. 
-    * Import ``2.13_Temperature_Control_Fan.png`` from the path of ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For detailed tutorials, please refer to :ref:`import_code_piper`.
+    * Follow the visual programming guide below using drag-and-drop techniques. 
+    * Load ``2.13_Temperature_Control_Fan.png`` from the directory ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For comprehensive guidance, see :ref:`import_code_piper`.
 
-.. image:: img/Fan_Code.png
+.. image:: img/Temperature_Control_Fan_Code.png
 
 
-* After connecting Pico W, click the **Start** button and the code starts to run.
-* Click CONSLE, you will see the current temperature in Celsius.
-* The fan starts spinning when it is above 25 degrees, and stops spinning when it is below 25 degrees.
+* Upon Pico W connection, press the **Start** button to begin program execution.
+* Access the console to monitor real-time temperature readings in Celsius.
+* The ventilation system will autonomously modulate motor velocity in response to thermal sensor data.
 
 .. note::
 

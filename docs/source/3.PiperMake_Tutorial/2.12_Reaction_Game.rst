@@ -1,41 +1,41 @@
-.. _per_reaction_game:
+.. _reaction_game:
 
-2.12 Reaction Game
-===========================
+2.12 Response Speed Challenge
+=============================
 
+This project develops an interactive reflex testing system utilizing multiple LEDs and push buttons to evaluate user response timing when visual stimuli are presented.
 
-Here we use several buttons, buzzer and LEDs to make a reaction game.Press the referee button to start the game, the buzzer will also keep ringing to prompt the game to continue; press the 2 player buttons quickly respectively; when the referee button is pressed again, the game is over the buzzer stops working.  At this point, look at the CONSOLE on Piper Make to see whose hand speed is fast.
+The challenge mechanism operates by randomly activating individual LEDs from a multi-color array, requiring players to identify and activate the corresponding control button with minimal delay. Response duration is calculated and recorded for performance assessment.
 
-Component List
-^^^^^^^^^^^^^^^^^^^^^^^^
+Required Components
+^^^^^^^^^^^^^^^^^^^
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
-- Transistor S8050 x1
-- Active Buzzer x1
-- Resistor 220Ω x2
-- Resistor 1kΩ x1
-- Resistor 10kΩ x3
-- 6*6 Button x3
-- LED x2
+- LED Red x1
+- LED Green x1
+- LED Blue x1
+- Button x3
+- Resistor 220Ω x3
+- Resistor 10KΩ x3
 - Jumper Wire Several
 
-Wiring
-^^^^^^^^^^^^^^^^^^^^^^^^
+Circuit Configuration
+^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/Reaction_Game_Wiring.png
 
-* Define 2 buttons as player1 (GP14) and player2 (GP12), both have a pull-up resistor connected. When the buttons are pressed, GP14 and GP12 are each low.
-* Their indicators are connected to GP15 and GP13,  and output high to light them up.
-* Define a referee button connected to GP10, when the button is pressed, GP10 goes low.
-* Active buzzer is connected to GP11, when GP11 output high, the buzzer will sound.
+* Red LED interfaces with digital output GP13, Green LED with GP14, Blue LED with GP15.
+* Push button 1 connects to digital input GP16, button 2 to GP17, button 3 to GP18.
+* Individual LEDs incorporate 220Ω current limitation resistors.
+* Push buttons feature 10KΩ pull-up resistor configurations.
 
-Code
-^^^^^^^^^^^^^^^^^^^^^^^^
+Programming Implementation
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note::
 
-    * You can refer to the image below to write code by dragging and dropping. 
-    * Import ``2.12_Reaction_Game.png`` from the path of ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For detailed tutorials, please refer to :ref:`import_code_piper`.
+    * Follow the visual programming guide below using drag-and-drop techniques. 
+    * Load ``2.12_Reaction_Game.png`` from the directory ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For comprehensive guidance, see :ref:`import_code_piper`.
 
 
 

@@ -1,12 +1,12 @@
 .. _per_button:
 
-2.2 Button Control LED
+2.2 Push Button LED Controller
 ===============================
 
-In this project, we will learn how to turn on or off the LED by using a button.
+This tutorial demonstrates how to control LED illumination using a tactile switch input.
 
-Component List
-^^^^^^^^^^^^^^^^^^^^^^^^
+Required Components
+^^^^^^^^^^^^^^^^^^^
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
@@ -17,35 +17,35 @@ Component List
 - Jumper Wire Several
   
 
-Wiring
-^^^^^^^^^^^^^
+Circuit Connections
+^^^^^^^^^^^^^^^^^^^
 
 .. image:: img/ButtonLED_Wiring.png
 
 
-* One side of the button pin is connected to 3.3v, and the other side pin is connected to GP14, so when the button is pressed, GP14 will be high. 
-* However, when the button is not pressed, GP14 is in a suspended state and may be high or low. In order to get a stable low level when the button is not pressed, GP14 needs to be reconnected to GND through a 10K pull-down resistor.
+* Connect one button terminal to 3.3V power supply, while linking the opposite terminal to GP14, ensuring GP14 receives high voltage when the switch is activated. 
+* Without button activation, GP14 remains in an undefined floating state, potentially reading either high or low. To ensure reliable low-level detection during button release, connect GP14 to ground through a 10kΩ pull-down resistor.
 
 
-Code
-^^^^^^^^^^^^^
+Programming Implementation
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note::
 
-    * You can refer to the image below to write code by dragging and dropping. 
-    * Import ``2.2_Button_Control_LED.png`` from the path of ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For detailed tutorials, please refer to :ref:`import_code_piper`.
+    * Follow the visual programming guide below using drag-and-drop methodology. 
+    * Load ``2.2_Button_Control_LED.png`` from the directory ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For complete instructions, reference :ref:`import_code_piper`.
 
 
 .. image:: img/ButtonLED_Code.png
 
-After connecting Pico W, click the **Start** button and the code starts to run. When the button is pressed, the LED will be lit. When the button is released, the LED will go out.
+Upon Pico W connection, press the **Start** button to initiate code execution. LED activation occurs when the button is pressed, while LED deactivation happens upon button release.
 
 
-How it Works?
-^^^^^^^^^^^^^
+Functional Analysis
+^^^^^^^^^^^^^^^^^^^
 
-When the button is pressed, pin14 is high. So if the read pin14 is high, turn the pin15 on (LED is lit); else, turn off the pin15 (LED is off).
+Button activation drives pin14 to high state. The program logic reads pin14 status: if high, pin15 activates (LED illuminates); otherwise, pin15 deactivates (LED extinguishes).
 
-* [if () do () else ()]: This is a judgment block, depending on the condition after the [if] block to determine whether to run the blocks inside the [do] block, or the blocks inside the [else] block.
-* [is pin () HIGH]: This is used to read the level of a specific pin, if the level read is the same as the set HIGH/LOW, then execute the blocks inside [do] block, otherwise execute the blocks inside [else].
+* [if () do () else ()]: Conditional logic block that evaluates the [if] condition to determine execution path - either [do] block contents or [else] block contents.
+* [is pin () HIGH]: Pin state detection function that compares actual pin voltage level against specified HIGH/LOW threshold, executing [do] block for matches or [else] block for mismatches.
 
