@@ -7,7 +7,7 @@ This project demonstrates color manipulation using three potentiometers to contr
 
 RGB LEDs integrate red, green, and blue light-emitting elements. Through proportional mixing of these primary colors, an extensive spectrum of colors becomes achievable.
 
-.. image:: img/RGB_Color_Mixing_rgb_pic.png
+.. image:: img/RGB_Mixing_rgbled.png
 
 Required Components
 ^^^^^^^^^^^^^^^^^^^
@@ -23,7 +23,7 @@ Required Components
 Circuit Assembly
 ^^^^^^^^^^^^^^^^
 
-.. image:: img/RGB_Color_Mixing_Wiring.png
+.. image:: img/RGB_Mixing_Wiring.png
 
 * The RGB LED features four terminals: the extended pin serves as the common cathode (ground), while the remaining three pins function as anodes (positive terminals) for red, green, and blue channels.
 * Three potentiometers interface with GPIO pins GP26, GP27, and GP28 respectively.
@@ -38,6 +38,6 @@ Programming Implementation
     * Import ``2.4_RGB_Color_Mixing.png`` from the location ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For complete instructions, reference :ref:`import_code_piper`.
 
 
-.. image:: img/RGB_Color_Mixing_Code.png
+.. image:: img/RGB_Mixing_Code.png
 
 Following Pico W connection, activate the **Start** button to initiate program execution. Adjust the three potentiometers to manipulate RGB LED color output across the visible spectrum.

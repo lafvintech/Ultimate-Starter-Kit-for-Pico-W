@@ -1,32 +1,27 @@
 .. _per_light_intensity_display:
 
-2.6 Ambient Light Visualization System
-======================================
+2.6 Light Intensity Display
+=====================================
 
-This project implements an ambient light monitoring system using a photoresistor sensor to measure illumination levels and visualize the data through an LED bar graph display.
+In this project, we use a photoresistor and the LED Bar Graph to make a light intensity display, where the stronger the light is the more the number of the LED Bar Graph lights up.
 
-A photoresistor functions as a light-dependent resistor, exhibiting variable resistance characteristics based on ambient illumination. Under bright conditions, resistance decreases; in dim environments, resistance increases proportionally.
-
-The LED bar graph serves as a visual indicator comprising ten individual LEDs arranged linearly, providing analog-style representation of measured values.
-
-.. image:: img/Light_Intensity_Display_photoresistor_pic.png
-
-Required Components
-^^^^^^^^^^^^^^^^^^^
+Component List
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
 - Photoresistor x1
 - LED Bar Graph x1
-- Resistor 10KΩ x1
+- Photoresistor x1
 - Resistor 220Ω x10
+- Resistor 10KΩ x1
 - Jumper Wire Several
   
 
 Circuit Assembly
 ^^^^^^^^^^^^^^^^
 
-.. image:: img/Light_Intensity_Display_Wiring.png
+.. image:: img/Light_Intensity_Wiring.png
 
 * The photoresistor interfaces with analog input pin GP26.
 * LED bar graph elements connect to digital output pins GP13 through GP22.
@@ -40,7 +35,7 @@ Programming Implementation
     * Import ``2.6_Light_Intensity_Display.png`` from the location ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For complete instructions, reference :ref:`import_code_piper`.
 
 
-.. image:: img/Light_Intensity_Display_Code.png
+.. image:: img/Light_Intensity_Code1.png
 
 Following Pico W connection, activate the **Start** button to initiate program execution. Obstruct the photoresistor with your hand to observe corresponding changes in the LED bar graph illumination pattern.
 

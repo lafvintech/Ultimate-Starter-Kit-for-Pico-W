@@ -12,28 +12,28 @@ Required Components
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
-- Temperature Sensor DS18B20 x1
+- TA6586 - Motor Driver Chip x1
 - DC Motor x1
-- Motor Driver L293D x1
-- Resistor 4.7KΩ x1
+- Li-po Charger Module x1
+- 18650 Battery x1
+- Battery Holder x1
+- Resistor 10kΩ x1
+- Photoresistor x1
 - Jumper Wire Several
 
-Circuit Configuration
-^^^^^^^^^^^^^^^^^^^^^
-.. image:: img/Temperature_Control_Fan_Wiring.png
+Wiring
+^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: img/Fan_Wiring.png
 
-* DS18B20 thermal sensor data interface connects to digital pin GP15.
-* L293D motor controller manages DC motor operation through digital outputs GP13 and GP14.
-* A 4.7KΩ pull-up resistor is connected to the data line of the temperature sensor.
 
-Programming Implementation
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Code
+^^^^^^^^^^^^^^^^^^^^^^^^
 .. note::
 
     * Follow the visual programming guide below using drag-and-drop techniques. 
     * Load ``2.13_Temperature_Control_Fan.png`` from the directory ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For comprehensive guidance, see :ref:`import_code_piper`.
 
-.. image:: img/Temperature_Control_Fan_Code.png
+.. image:: img/Fan_Code.png
 
 
 * Upon Pico W connection, press the **Start** button to begin program execution.

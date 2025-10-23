@@ -12,14 +12,16 @@ Required Components
 - Raspberry Pi Pico W x1
 - MicroUSB cable x1
 - 830 Tie-Points Breadboard x1
-- WS2812 RGB LED Strip x1
+- WS2812 RGB 8 LEDs Strip x1
+- Tilt Switch x1 x1
+- Resistor 10kΩ x1
 - Jumper Wire Several
   
 
 Circuit Configuration
 ^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: img/RGB_Light_Strip_Wiring.png
+.. image:: img/WS2812_Strip_Wiring.png
 
 * WS2812 RGB LED strip data input connects to digital pin GP15.
 * Power supply terminal links to VBUS rail.
@@ -34,7 +36,7 @@ Programming Implementation
     * Load ``2.10_RGB_Light_Strip.png`` from the directory ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For comprehensive guidance, see :ref:`import_code_piper`.
 
 
-.. image:: img/RGB_Light_Strip_Code.png
+.. image:: img/WS2812_Strip_Code.png
 
 Upon Pico W connection, press the **Start** button to begin program execution. The addressable LED strip will generate a spectrum rainbow pattern with colors transitioning smoothly across the visible light range.
 
