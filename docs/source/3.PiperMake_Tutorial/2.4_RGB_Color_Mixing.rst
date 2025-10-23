@@ -1,0 +1,43 @@
+.. _per_rgb_color_mixing:
+
+2.4 RGB Color Blending System
+=============================
+
+This project demonstrates color manipulation using three potentiometers to control an RGB LED's color output through variable resistance adjustments.
+
+RGB LEDs integrate red, green, and blue light-emitting elements. Through proportional mixing of these primary colors, an extensive spectrum of colors becomes achievable.
+
+.. image:: img/RGB_Mixing_rgbled.png
+
+Required Components
+^^^^^^^^^^^^^^^^^^^
+- Raspberry Pi Pico W x1
+- MicroUSB cable x1
+- 830 Tie-Points Breadboard x1
+- RGB LED x1
+- Potentiometer 10KΩ x3
+- Resistor 220Ω x3
+- Jumper Wire Several
+  
+
+Circuit Assembly
+^^^^^^^^^^^^^^^^
+
+.. image:: img/RGB_Mixing_Wiring.png
+
+* The RGB LED features four terminals: the extended pin serves as the common cathode (ground), while the remaining three pins function as anodes (positive terminals) for red, green, and blue channels.
+* Three potentiometers interface with GPIO pins GP26, GP27, and GP28 respectively.
+* RGB LED color channels connect to GPIO pins GP13, GP14, and GP15 correspondingly.
+
+Programming Implementation
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. note::
+
+    * Utilize the visual programming interface shown below through drag-and-drop methodology. 
+    * Import ``2.4_RGB_Color_Mixing.png`` from the location ``Ultimate-Starter-Kit-for-Pico-W\Piper_Make``. For complete instructions, reference :ref:`import_code_piper`.
+
+
+.. image:: img/RGB_Mixing_Code.png
+
+Following Pico W connection, activate the **Start** button to initiate program execution. Adjust the three potentiometers to manipulate RGB LED color output across the visible spectrum.
